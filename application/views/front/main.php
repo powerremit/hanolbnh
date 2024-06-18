@@ -31,7 +31,7 @@
         </a>
 
         <!-- Image-->
-        <img class="m-12 l-6 l-row-2 margin-bottom" src="/assets/img/img-06.jpg">
+        <img class="m-12 l-6 l-row-2 margin-bottom" src="/assets/img/main/main2.jpeg">
 
         <a  class="s-12 m-6 l-3 padding-2x vertical-center margin-bottom background-orange">
             <i class="icon-sli-diamond text-size-60 text-white center margin-bottom-15"></i>
@@ -86,9 +86,9 @@
 
     <!-- SECTION 5 -->
     <section class="grid margin text-center">
-        <div class="m-12 l-4 padding-2x background-dark margin-bottom text-right">
+        <div class="m-12 l-6 padding-2x background-dark margin-bottom text-right">
             <h3 class="text-strong text-size-25 text-uppercase margin-bottom-10">Let's keep in touch</h3>
-            <p>Deleniti pertinacia eu est, te his soluta quaestio pericula illum vulputate lobortis facilisis.</p>
+            <p>In addition to the official website, you can learn more about our company through Instagram, Facebook, and YouTube.</p>
         </div>
         <a href="https://www.facebook.com/duhochanol" class="s-12 m-6 l-2 padding vertical-center margin-bottom facebook hover-zoom" target="_blank">
             <i class="icon-sli-social-facebook text-size-60 text-white center"></i>

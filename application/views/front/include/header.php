@@ -22,11 +22,11 @@
                     </ul>
                 </li>
                 <li>
-                    <a href="/studyinkorea">Study in Korea</a>
+                    <a href="javascript:void(0)">Study in Korea</a>
                     <ul class="dropdown">
-                        <li><a href="/subpage5">Curriculums</a></li>
-                        <li><a href="/subpage6">Process</a></li>
-                        <li><a href="/subpage6">Documents</a></li>
+                        <li><a href="/courses">Courses</a></li>
+                        <li><a href="/process">Process</a></li>
+                        <li><a href="/documents">Documents</a></li>
                     </ul>
                 </li>
 <!--                <li><a href="/university">Universities</a></li>-->
@@ -44,13 +44,14 @@
 </header>
 
 <style>
-    .dropdown {
-        display: none;
-        position: absolute;
-        background-color: white;
-        /*min-width: ;*/
-        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-        z-index: 1;
-    }
+    /*.dropdown {*/
+    /*    display: none;*/
+    /*    position: absolute;*/
+    /*    !*background-color: white;*!*/
+    /*    !*min-width: ;*!*/
+    /*    color: #1f1d1d;*/
+    /*    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);*/
+    /*    z-index: 1;*/
+    /*}*/
 
 </style>

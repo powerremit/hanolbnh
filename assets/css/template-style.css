@@ -146,8 +146,20 @@ table tr:nth-of-type(2n) {
   border-top:1px solid #f0f0f0;
   border-bottom:1px solid #f0f0f0;
 }
+
 th {border-right:1px solid #fff;}
 td {border-right:1px solid #fff;}
+
+table td:nth-of-type(1) {
+  text-align: center;
+}
+
+table td:nth-of-type(2) {
+  font-weight: bold;
+}
+.table-p {
+  text-align: center;
+}
 
 
 /* Backgrounds */
@@ -1485,8 +1497,8 @@ section, header {
   }
   .nav-text {
     margin-right: 0;
-  }  
-  .top-nav, .nav-text, .top-nav li a, .background-white .top-nav li a {
+  }
+  .top-nav, .nav-text, .top-nav li a:not(.dropdown a), .background-white .top-nav li a:not(.dropdown a) {
     background: none repeat scroll 0 0 #454545;
     color: #fff!important
   }
