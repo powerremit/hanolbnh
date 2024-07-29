@@ -12,14 +12,6 @@
                 <li><a href="/">Hanol Education</a></li>
                 <li>
                     <a href="/history">History</a>
-                    <ul class="dropdown">
-                        <li><a href="/subpage5">Vietnam</a></li>
-                        <li><a href="/subpage6">Mongolia</a></li>
-                        <li><a href="/subpage6">Iran</a></li>
-                        <li><a href="/subpage6">Malaysia</a></li>
-                        <li><a href="/subpage6">Indonesia</a></li>
-                        <li><a href="/subpage6">Pakistan</a></li>
-                    </ul>
                 </li>
                 <li>
                     <a href="javascript:void(0)">Study in Korea</a>
@@ -31,7 +23,7 @@
                 </li>
 <!--                <li><a href="/university">Universities</a></li>-->
                 <li>
-                    <a href="/gallery">KUFS</a>
+                    <a href="javascript:void(0)">KUFS</a>
                     <ul class="dropdown">
                         <li><a href="/subpage5">KUFS Vietnam</a></li>
                         <li><a href="/subpage6">KUFS Mongolia</a></li>
