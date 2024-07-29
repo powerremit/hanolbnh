@@ -14,6 +14,7 @@
     <link href="https://fonts.googleapis.com/css?family=Barlow:100,300,400,700,800&amp;subset=latin-ext" rel="stylesheet">
     <script type="text/javascript" src="/assets/js/jquery-1.8.3.min.js"></script>
     <script type="text/javascript" src="/assets/js/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fslightbox/3.4.1/index.min.js"></script>
 </head>
 
 <script type="text/javascript" src="/assets/js/responsee.js"></script>

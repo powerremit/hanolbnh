@@ -10,10 +10,10 @@
         <div class="top-nav s-12 l-9">
             <ul class="top-ul right chevron">
                 <li><a href="/">Hanol Education</a></li>
-                <li>
+                <li class="<?=$this->uri->segment(1) == "history" ? 'active-item' : ''?>">
                     <a href="/history">History</a>
                 </li>
-                <li>
+                <li class="<?=$this->uri->segment(1) == "process" || $this->uri->segment(1) == "courses" || $this->uri->segment(1) == "documents" ? 'active-item' : ''?>">
                     <a href="javascript:void(0)">Study in Korea</a>
                     <ul class="dropdown">
                         <li><a href="/courses">Courses</a></li>

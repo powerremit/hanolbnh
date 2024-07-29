@@ -21,11 +21,11 @@
 
     <!-- SECTION 1 -->
     <section class="grid margin text-center">
-        <a  class="s-12 m-6 l-3 padding-2x vertical-center margin-bottom background-red">
+        <a class="s-12 m-6 l-3 padding-2x vertical-center margin-bottom background-red">
             <i class="icon-sli-equalizer text-size-60 text-white center margin-bottom-15"></i>
             <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-30 text-uppercase">Unlimited POSSIBILITY</h3>
         </a>
-        <a  class="s-12 m-6 l-3 padding-2x vertical-center margin-bottom background-blue">
+        <a class="s-12 m-6 l-3 padding-2x vertical-center margin-bottom background-blue">
             <i class="icon-sli-layers text-size-60 text-white center margin-bottom-15"></i>
             <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-30 text-uppercase">VARIOUS CAREER PATHS</h3>
         </a>
@@ -33,11 +33,11 @@
         <!-- Image-->
         <img class="m-12 l-6 l-row-2 margin-bottom" src="/assets/img/main/main2.jpeg">
 
-        <a  class="s-12 m-6 l-3 padding-2x vertical-center margin-bottom background-orange">
+        <a class="s-12 m-6 l-3 padding-2x vertical-center margin-bottom background-orange">
             <i class="icon-sli-diamond text-size-60 text-white center margin-bottom-15"></i>
             <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-30 text-uppercase">REASONABLE PRICE</h3>
         </a>
-        <a  class="s-12 m-6 l-3 padding-2x vertical-center margin-bottom background-aqua">
+        <a class="s-12 m-6 l-3 padding-2x vertical-center margin-bottom background-aqua">
             <i class="icon-sli-share text-size-60 text-white center margin-bottom-15"></i>
             <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-30 text-uppercase">INTEGRITY AND HONEST</h3>
         </a>
@@ -54,7 +54,7 @@
                 <li>정부 인정 기업</li><br>
                 <li>KOTRA(산업통상자원부)유일 사업등록 유학기업</li><br>
                 <li>유일한 유학업 매출 인정 기업</li><br>
-                <li>매년 1000명이 넘는 외국인 유학생을 국내 대학에 유치하는 국내 최대의 인바운드 유학기업.</li><br>
+                <li>매년 1000명이 넘는 외국인 유학생을 국내 대학에 유치하는 국내 최대의 인바운드 유학기업</li><br>
             </ul>
             <br>
             <h2 class="text-strong text-size-25 text-line-height-1">BUSINESS AREA</h2>
