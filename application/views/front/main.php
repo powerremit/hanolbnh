@@ -6,7 +6,7 @@
         <div class="s-12 margin-bottom carousel-fade-transition owl-carousel carousel-main carousel-nav-white carousel-hide-arrows background-dark">
             <div class="item background-image" style="background-image:url(/assets/img/main.jpg)">
                 <p class="text-padding text-strong text-white text-s-size-30 text-size-60 text-uppercase background-primary">Hanol B&H Co. Ltd</p><br>
-                <p class="text-padding text-size-20 text-dark text-uppercase background-white">Hanol is the best partner when you want to study in Korea</p>
+                <p class="text-padding text-size-20 text-dark text-uppercase background-white"><?=$this->lang->line('main_01')?></p>
             </div>
 <!--                      	<div class="item background-image" style="background-image:url(/assets/img/carousel-02.jpg)">-->
 <!--                          <p class="text-padding text-strong text-white text-s-size-30 text-size-60 text-uppercase background-primary">Hanol B&H Co. Ltd</p><br>-->
@@ -23,11 +23,11 @@
     <section class="grid margin text-center">
         <a class="s-12 m-6 l-3 padding-2x vertical-center margin-bottom background-red">
             <i class="icon-sli-equalizer text-size-60 text-white center margin-bottom-15"></i>
-            <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-30 text-uppercase">Unlimited POSSIBILITY</h3>
+            <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-30 text-uppercase"><?=$this->lang->line('main_02')?></h3>
         </a>
         <a class="s-12 m-6 l-3 padding-2x vertical-center margin-bottom background-blue">
             <i class="icon-sli-layers text-size-60 text-white center margin-bottom-15"></i>
-            <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-30 text-uppercase">VARIOUS CAREER PATHS</h3>
+            <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-30 text-uppercase"><?=$this->lang->line('main_03')?></h3>
         </a>
 
         <!-- Image-->
@@ -35,11 +35,11 @@
 
         <a class="s-12 m-6 l-3 padding-2x vertical-center margin-bottom background-orange">
             <i class="icon-sli-diamond text-size-60 text-white center margin-bottom-15"></i>
-            <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-30 text-uppercase">REASONABLE PRICE</h3>
+            <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-30 text-uppercase"><?=$this->lang->line('main_04')?></h3>
         </a>
         <a class="s-12 m-6 l-3 padding-2x vertical-center margin-bottom background-aqua">
             <i class="icon-sli-share text-size-60 text-white center margin-bottom-15"></i>
-            <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-30 text-uppercase">INTEGRITY AND HONEST</h3>
+            <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-30 text-uppercase"><?=$this->lang->line('main_05')?></h3>
         </a>
     </section>
 
@@ -51,19 +51,20 @@
         <div class="s-12 m-6 padding-2x margin-bottom background-blue">
             <h2 class="text-strong text-size-50 text-line-height-1">HANOL B&H</h2>
             <ul>
-                <li>정부 인정 기업</li><br>
-                <li>KOTRA(산업통상자원부)유일 사업등록 유학기업</li><br>
-                <li>유일한 유학업 매출 인정 기업</li><br>
-                <li>매년 1000명이 넘는 외국인 유학생을 국내 대학에 유치하는 국내 최대의 인바운드 유학기업</li><br>
+                <li><?=$this->lang->line('main_06')?></li><br>
+                <li><?=$this->lang->line('main_07')?></li><br>
+                <li><?=$this->lang->line('main_08')?></li><br>
+                <li><?=$this->lang->line('main_09')?></li><br>
             </ul>
             <br>
-            <h2 class="text-strong text-size-25 text-line-height-1">BUSINESS AREA</h2>
+            <h2 class="text-strong text-size-25 text-line-height-1"><?=$this->lang->line('main_10')?></h2>
             <ul>
-                <li>외국인 유학생 유치 및 입학 지원</li><br>
-                <li>대학 직접 입학 프로그램 시행(해외 학교 내 한국어센터 직접운영)</li><br>
-                <li>베트남, 몽골 KUF 시행</li><br>
-                <li>해외 고등학교, 대학교 한국어 센터 설립 지원</li><br>
-                <li>다양한 무역 분야 무욕 촉진 지원</li><br>
+                <li><?=$this->lang->line('main_11')?></li><br>
+                <li><?=$this->lang->line('main_12')?></li><br>
+                <li><?=$this->lang->line('main_13')?></li><br>
+                <li><?=$this->lang->line('main_14')?></li><br>
+                <li><?=$this->lang->line('main_15')?></li><br>
+                <li><?=$this->lang->line('main_16')?></li><br>
             </ul>
         </div>
     </section>
@@ -89,7 +90,7 @@
     <section class="grid margin text-center">
         <div class="m-12 l-6 padding-2x background-dark margin-bottom text-right">
             <h3 class="text-strong text-size-25 text-uppercase margin-bottom-10">Let's keep in touch</h3>
-            <p>In addition to the official website, you can learn more about our company through Instagram, Facebook, and YouTube.</p>
+            <p><?=$this->lang->line('main_17')?></p>
         </div>
         <a href="https://www.facebook.com/duhochanol" class="s-12 m-6 l-2 padding vertical-center margin-bottom facebook hover-zoom" target="_blank">
             <i class="icon-sli-social-facebook text-size-60 text-white center"></i>

@@ -1,3 +1,34 @@
+<script>
+    $(function() {
+        // 언어 셀렉트 박스
+        let lang = $.cookie('lang')
+        if (lang == 'korean') {
+            $('#change_lang').val('korean')
+        } else if(lang == 'english') {
+            $('#change_lang').val('english')
+        } else {
+            $('#change_lang').val('vietnam')
+        }
+
+        // 언어 변경
+        $('#change_lang').on('change', function () {
+            let lang = $(this).val();
+            if (lang == 'korean') {
+                $.removeCookie('lang', {path: '/'});
+                $.cookie('lang', lang, { expires: 1, path: '/' });
+            } else if(lang == 'english') {
+                $.removeCookie('lang', {path: '/'});
+                $.cookie('lang', lang, { expires: 1, path: '/' });
+            } else {
+                $.removeCookie('lang', {path: '/'});
+                $.cookie('lang', lang, { expires: 1, path: '/' });
+            }
+            location.reload();
+        })
+
+    })
+</script>
+
 <!-- HEADER -->
 <header class="grid">
     <!-- Top Navigation -->
@@ -32,18 +63,20 @@
                 <li><a href="/contact">Contact</a></li>
             </ul>
         </div>
+        <div class="s-12 lang_select">
+            <select class="background-dark text-aqua" alt='select language' id="change_lang" style="border: none">
+                <option value="english" alt='English'>English</option>
+                <option value="korean" alt='Korean'>Korean</option>
+                <option value="vietnam" alt='Vietnam'>Vietnam</option>
+            </select>
+        </div>
     </nav>
 </header>
 
 <style>
-    /*.dropdown {*/
-    /*    display: none;*/
-    /*    position: absolute;*/
-    /*    !*background-color: white;*!*/
-    /*    !*min-width: ;*!*/
-    /*    color: #1f1d1d;*/
-    /*    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);*/
-    /*    z-index: 1;*/
-    /*}*/
-
+    .lang_select {
+        display: flex;
+        justify-content: flex-end;
+        margin-bottom: 10px;
+    }
 </style>

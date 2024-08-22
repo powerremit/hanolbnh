@@ -76,7 +76,27 @@ $config['url_suffix'] = '';
 | than english.
 |
 */
-$config['language']	= 'english';
+if(isset($_SERVER['HTTP_ACCEPT_LANGUAGE'])){
+    $browser_lang = substr($_SERVER['HTTP_ACCEPT_LANGUAGE'], 0, 2);
+} else {
+    $browser_lang = "english";
+}
+
+if(array_key_exists('lang', $_COOKIE)){
+    $browser_lang = $_COOKIE['lang'];
+}else{
+    switch ($browser_lang) {
+        case "en": $browser_lang = "english"; break;
+        case "ko": $browser_lang = "korean"; break;
+        case "vn": $browser_lang = "vietnam"; break;
+        default: $browser_lang = "english"; break;
+    }
+    setcookie('lang', $browser_lang, time() + (86400 * 30), "/");
+    $_COOKIE['lang'] = $browser_lang;
+}
+
+$config['language']	= $browser_lang;
+
 
 /*
 |--------------------------------------------------------------------------
