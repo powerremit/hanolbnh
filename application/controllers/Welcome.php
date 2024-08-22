@@ -26,8 +26,6 @@ class Welcome extends CI_Controller {
 
     public function index()
 	{
-        $a = $_COOKIE['lang'];
-//		$this->load->view('welcome_message');
         $data['title'] = 'main';
 //        $data['includes'] = $this->load->view('/front/include/includes', '', true);
         $data['header'] = $this->load->view('/front/include/header', '', true);

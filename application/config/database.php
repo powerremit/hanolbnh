@@ -70,7 +70,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | The $query_builder variables lets you determine whether or not to load
 | the query builder class.
 */
-$active_group = 'default';
+$active_group = ENVIRONMENT;
 $query_builder = TRUE;
 
 $db['local'] = array(
@@ -78,7 +78,7 @@ $db['local'] = array(
 	'hostname' => '127.0.0.1:3306',
 	'username' => 'powerremit',
 	'password' => 'qkdwldnjs',
-	'database' => 'hanol',
+	'database' => 'hanol_web',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
@@ -100,7 +100,7 @@ $db['dev'] = array(
     'hostname' => '127.0.0.1:3306',
     'username' => 'powerremit',
     'password' => 'qkdwldnjs',
-    'database' => 'hanol',
+    'database' => 'hanol_web',
     'dbdriver' => 'mysqli',
     'dbprefix' => '',
     'pconnect' => FALSE,
@@ -122,7 +122,7 @@ $db['prod'] = array(
     'hostname' => '127.0.0.1:3306',
     'username' => 'powerremit',
     'password' => 'qkdwldnjs',
-    'database' => 'hanol',
+    'database' => 'hanol_web',
     'dbdriver' => 'mysqli',
     'dbprefix' => '',
     'pconnect' => FALSE,
