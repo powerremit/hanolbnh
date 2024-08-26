@@ -7,4 +7,10 @@ class Test_model extends CI_Model
         parent::__construct();
     }
 
+
+    function getTest() {
+        $this->db->select('*');
+        $this->db->from('test');
+        return $this->db->get()->row();
+    }
 }

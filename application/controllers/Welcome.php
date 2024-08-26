@@ -26,6 +26,8 @@ class Welcome extends CI_Controller {
 
     public function index()
 	{
+        $this->load->model('Test_model');
+//        $a = $this->Test_model->getTest();
         $data['title'] = 'main';
 //        $data['includes'] = $this->load->view('/front/include/includes', '', true);
         $data['header'] = $this->load->view('/front/include/header', '', true);
