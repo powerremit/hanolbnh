@@ -3,8 +3,8 @@
     <!-- TOP SECTION -->
     <header class="grid">
         <div class="s-12 padding-2x">
-            <h1 class="text-strong text-white text-center center text-size-60 text-uppercase margin-bottom-20">History of Hanol B&H</h1>
-            <p class="text-size-20 text-white text-center center text-uppercase">This 'History' page is for you to see how Hanol has been doing in other countries. Click any flags below to see the pictures of our works.</p>
+            <h1 class="text-strong text-white text-center center text-size-60 text-uppercase margin-bottom-20"><?=$this->lang->line('history_title')?></h1>
+            <p class="text-size-20 text-white text-center center text-uppercase"><?=$this->lang->line('history_subtitle')?></p>
         </div>
     </header>
 
@@ -88,17 +88,17 @@
     <section class="grid margin-bottom">
         <div class="m-12 l-12 padding-2x background-dark text-center">
             <h2 class="text-white text-strong">2013</h2>
-            <p>한올 무역 회사 설립</p><br><br>
+            <p><?=$this->lang->line('history_01')?></p><br><br>
             <h2 class="text-white text-strong">2014</h2>
-            <p>모회사 '한올통상' 유학업 개시</p><br><br>
+            <p><?=$this->lang->line('history_02')?></p><br><br>
             <h2 class="text-white text-strong">2015</h2>
-            <p>몽골 울란바타르 지사 설립</p><br><br>
+            <p><?=$this->lang->line('history_03')?></p><br><br>
             <h2 class="text-white text-strong">2016</h2>
-            <p>몽골 지사 KUFS 프로그램 프로그램 시작</p><br><br>
+            <p><?=$this->lang->line('history_04')?></p><br><br>
             <h2 class="text-white text-strong">2017</h2>
-            <p>법인 변경, 한올비앤에이치 설립</p><br><br>
+            <p><?=$this->lang->line('history_05')?></p><br><br>
             <h2 class="text-white text-strong">2018</h2>
-            <p>베트남 지사 설립 및 베트남 KUFS 프로그램 시작</p>
+            <p><?=$this->lang->line('history_06')?></p>
         </div>
 
         <!--         Image-->

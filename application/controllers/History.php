@@ -4,6 +4,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 class History extends CI_Controller {
 
 
+    public function __construct(){
+        parent::__construct();
+        $this->lang->load('history_lang');
+    }
 	public function index()
 	{
         $data['title'] = 'main';
