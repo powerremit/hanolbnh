@@ -74,25 +74,25 @@ $active_group = ENVIRONMENT;
 $query_builder = TRUE;
 
 $db['local'] = array(
-	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'hktgobxvvko0sagc_powerremit',
-	'password' => 'qkdwldnjs830##',
-	'database' => 'hktgobxvvko0sagc_hanol_web',
-	'dbdriver' => 'mysqli',
-	'dbprefix' => '',
-	'pconnect' => FALSE,
-//	'db_debug' => (ENVIRONMENT !== 'production'),
-	'cache_on' => FALSE,
-	'cachedir' => '',
-	'char_set' => 'utf8',
-	'dbcollat' => 'utf8_general_ci',
-	'swap_pre' => '',
-	'encrypt' => FALSE,
-	'compress' => FALSE,
-	'stricton' => FALSE,
-	'failover' => array(),
-	'save_queries' => TRUE
+    'dsn'	=> '',
+    'hostname' => '127.0.0.1:3306',
+    'username' => 'powerremit',
+    'password' => 'qkdwldnjs',
+    'database' => 'hanol_web',
+    'dbdriver' => 'mysqli',
+    'dbprefix' => '',
+    'pconnect' => FALSE,
+//    'db_debug' => (ENVIRONMENT !== 'production'),
+    'cache_on' => FALSE,
+    'cachedir' => '',
+    'char_set' => 'utf8',
+    'dbcollat' => 'utf8_general_ci',
+    'swap_pre' => '',
+    'encrypt' => FALSE,
+    'compress' => FALSE,
+    'stricton' => FALSE,
+    'failover' => array(),
+    'save_queries' => TRUE
 );
 
 $db['dev'] = array(
@@ -119,14 +119,14 @@ $db['dev'] = array(
 
 $db['prod'] = array(
     'dsn'	=> '',
-    'hostname' => '3.34.104.242:3306',
+    'hostname' => 'localhost',
     'username' => 'hktgobxvvko0sagc_powerremit',
     'password' => 'qkdwldnjs830##',
     'database' => 'hktgobxvvko0sagc_hanol_web',
     'dbdriver' => 'mysqli',
     'dbprefix' => '',
     'pconnect' => FALSE,
-//    'db_debug' => (ENVIRONMENT !== 'production'),
+//	'db_debug' => (ENVIRONMENT !== 'production'),
     'cache_on' => FALSE,
     'cachedir' => '',
     'char_set' => 'utf8',

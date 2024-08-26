@@ -53,7 +53,20 @@
  *
  * NOTE: If you change these, also change the error_reporting() code below
  */
-	define('ENVIRONMENT', isset($_SERVER['CI_ENV']) ? $_SERVER['CI_ENV'] : 'local');
+
+
+function isLocal() {
+    $whitelist = ['127.0.0.1', '::1'];
+    return in_array($_SERVER['REMOTE_ADDR'], $whitelist);
+}
+
+if (isLocal()) {
+    define('ENVIRONMENT', 'local');
+} else {
+    define('ENVIRONMENT', 'prod');
+}
+
+//	define('ENVIRONMENT', isset($_SERVER['CI_ENV']) ? $_SERVER['CI_ENV'] : 'local');
 //	define('ENVIRONMENT', 'local');
 //	define('ENVIRONMENT', 'dev');
 //	define('ENVIRONMENT', 'prod');
