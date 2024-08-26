@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['local'] = array(
 	'dsn'	=> '',
-	'hostname' => '127.0.0.1:3306',
-	'username' => 'powerremit',
-	'password' => 'qkdwldnjs',
-	'database' => 'hanol_web',
+	'hostname' => 'localhost',
+	'username' => 'hktgobxvvko0sagc_powerremit',
+	'password' => 'qkdwldnjs830##',
+	'database' => 'hktgobxvvko0sagc_hanol_web',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
