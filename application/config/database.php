@@ -119,9 +119,9 @@ $db['dev'] = array(
 
 $db['prod'] = array(
     'dsn'	=> '',
-    'hostname' => '127.0.0.1:3306',
+    'hostname' => '3.34.104.242:3306',
     'username' => 'powerremit',
-    'password' => 'qkdwldnjs',
+    'password' => 'qkdwldnjs830##',
     'database' => 'hanol_web',
     'dbdriver' => 'mysqli',
     'dbprefix' => '',
