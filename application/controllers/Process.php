@@ -4,7 +4,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 class Process extends CI_Controller {
 
 
-	public function index()
+    public function __construct()
+    {
+        parent::__construct();
+        $this->lang->load('course_lang');
+    }
+
+
+    public function index()
 	{
         $data['title'] = 'main';
 //        $data['includes'] = $this->load->view('/front/include/includes', '', true);

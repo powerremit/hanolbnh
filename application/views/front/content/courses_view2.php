@@ -3,7 +3,7 @@
     <!-- TOP SECTION -->
     <header class="grid">
         <div class="s-12 padding-2x">
-            <h1 class="text-strong text-white text-center center text-size-60 text-uppercase margin-bottom-20">Curriculums of Hanol B&H</h1>
+            <h1 class="text-strong text-white text-center center text-size-60 text-uppercase margin-bottom-20"><?=$this->lang->line('course_title')?></h1>
         </div>
     </header>
 
@@ -15,30 +15,30 @@
             <!-- Image-->
             <img class="m-12 l-4" src="/assets/img/img-06.jpg">
 
-            <h2 class="text-size-50 text-line-height-1 text-dark"><b>Korean Language Course</b></h2>
-            <h2 class="text-size-30 text-line-height-1 text-dark"><b>(1~2 Years)</b></h2>
+            <h2 class="text-size-50 text-line-height-1 text-dark"><b><?=$this->lang->line('course_01')?></b></h2>
+            <h2 class="text-size-30 text-line-height-1 text-dark"><b><?=$this->lang->line('course_02')?></b></h2>
 
-            <p>Students have academic ability equivalent to high school graduation or higher.</p>
+            <p><?=$this->lang->line('course_03')?></p>
         </div>
         <div class="m-12 l-4 padding-2x background-white">
             <p class="text-strong text-size-80 text-red">02</p>
             <!-- Image-->
             <img class="m-12 l-4" src="/assets/img/img-06.jpg">
 
-            <h2 class="text-size-50 text-line-height-1 text-dark"><b>Bachelor Degree</b></h2>
-            <h2 class="text-size-30 text-line-height-1 text-dark"><b>(4~6 Years)</b></h2>
+            <h2 class="text-size-50 text-line-height-1 text-dark"><b><?=$this->lang->line('course_04')?></b></h2>
+            <h2 class="text-size-30 text-line-height-1 text-dark"><b><?=$this->lang->line('course_05')?></b></h2>
 
-            <p>Students who have completed 12 years of schooling</p>
+            <p><?=$this->lang->line('course_06')?></p>
         </div>
         <div class="m-12 l-4 padding-2x background-white">
             <p class="text-strong text-size-80 text-red">03</p>
             <!-- Image-->
             <img class="m-12 l-4" src="/assets/img/img-06.jpg">
 
-            <h2 class="text-size-50 text-line-height-1 text-dark"><b>Associate Degree (College)</b></h2>
-            <h2 class="text-size-30 text-line-height-1 text-dark"><b>(2~3 Years)</b></h2>
+            <h2 class="text-size-50 text-line-height-1 text-dark"><b><?=$this->lang->line('course_07')?></b></h2>
+            <h2 class="text-size-30 text-line-height-1 text-dark"><b><?=$this->lang->line('course_08')?></b></h2>
 
-            <p>Students who have completed 12 years of schooling</p>
+            <p><?=$this->lang->line('course_06')?></p>
         </div>
     </section>
 
@@ -49,30 +49,30 @@
             <!-- Image-->
             <img class="m-12 l-4" src="/assets/img/img-04.jpg">
 
-            <h2 class="text-size-50 text-line-height-1 margin-bottom-30 text-white"><b>Master's Degree</b></h2>
-            <h2 class="text-size-30 text-line-height-1 text-white"><b>(2 Years or more)</b></h2>
+            <h2 class="text-size-50 text-line-height-1 text-white"><b><?=$this->lang->line('course_09')?></b></h2>
+            <h2 class="text-size-30 text-line-height-1 text-white"><b><?=$this->lang->line('course_10')?></b></h2>
 
-            <p>Students with a bachelor's degree</p>
+            <p><p><?=$this->lang->line('course_11')?></p></p>
         </div>
         <div class="m-12 l-4 padding-2x background-dark">
             <p class="text-strong text-size-80 text-red">05</p>
             <!-- Image-->
             <img class="m-12 l-4" src="/assets/img/img-04.jpg">
 
-            <h2 class="text-size-50 text-line-height-1 margin-bottom-30 text-white"><b>Doctor Degree</b></h2>
-            <h2 class="text-size-30 text-line-height-1 text-white"><b>(2 Years or more)</b></h2>
+            <h2 class="text-size-50 text-line-height-1 text-white"><b><?=$this->lang->line('course_12')?></b></h2>
+            <h2 class="text-size-30 text-line-height-1 text-white"><b><?=$this->lang->line('course_10')?></b></h2>
 
-            <p>Students with master's degrees</p>
+            <p><p><?=$this->lang->line('course_13')?></p></p>
         </div>
         <div class="m-12 l-4 padding-2x background-dark">
             <p class="text-strong text-size-80 text-red">06</p>
             <!-- Image-->
             <img class="m-12 l-4" src="/assets/img/img-04.jpg">
 
-            <h2 class="text-size-50 text-line-height-1 margin-bottom-30 text-white"><b>Exchange Student</b></h2>
-            <h2 class="text-size-30 text-line-height-1 text-white"><b>(1semester ~ 1year)</b></h2>
+            <h2 class="text-size-50 text-line-height-1 text-white"><b><?=$this->lang->line('course_14')?></b></h2>
+            <h2 class="text-size-30 text-line-height-1 text-white"><b><?=$this->lang->line('course_15')?></b></h2>
 
-            <p>Students studying at a university affiliated with a Korean university</p>
+            <p><p><?=$this->lang->line('course_16')?></p></p>
         </div>
     </section>
 
@@ -82,9 +82,9 @@
             <p class="text-strong text-size-80 text-red">07</p>
             <!-- Image-->
             <img class="m-12 l-6" src="/assets/img/img-04.jpg">
-            <h2 class="text-size-50 text-line-height-1 margin-bottom-30 text-white"><b>F2R (VISA)</b></h2>
-            <h3 class="text-size-30 text-line-height-1 text-white"><b>(5 Years or more)</b></h3>
-            <p>Regional specialization type</p>
+            <h2 class="text-size-50 text-line-height-1 text-white"><b><?=$this->lang->line('course_17')?></b></h2>
+            <h3 class="text-size-30 text-line-height-1 text-white"><b><?=$this->lang->line('course_18')?></b></h3>
+            <p><p><?=$this->lang->line('course_19')?></p></p>
 
         </div>
 <!--        <h2 class="s-12 l-6 center text-thin text-size-30 text-white text-uppercase margin-bottom-30"><b>Hanol B&H?</b></h2>-->
