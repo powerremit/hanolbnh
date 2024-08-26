@@ -26,11 +26,14 @@ class Welcome extends CI_Controller {
 
     public function index()
 	{
-        $this->load->model('Test_model');
-        $a = $this->Test_model->getTest();
-        $data = array(
-            'name' => $a->name,
-        );
+
+        // 테스트전용
+//        $this->load->model('Test_model');
+//        $a = $this->Test_model->getTest();
+//        $data = array(
+//            'name' => $a->name,
+//        );
+
         $data['title'] = 'main';
 //        $data['includes'] = $this->load->view('/front/include/includes', '', true);
         $data['header'] = $this->load->view('/front/include/header', '', true);
