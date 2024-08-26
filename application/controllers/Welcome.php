@@ -28,11 +28,14 @@ class Welcome extends CI_Controller {
 	{
         $this->load->model('Test_model');
         $a = $this->Test_model->getTest();
+        $data = array(
+            'name' => $a->name,
+        );
         $data['title'] = 'main';
 //        $data['includes'] = $this->load->view('/front/include/includes', '', true);
         $data['header'] = $this->load->view('/front/include/header', '', true);
 //        $data['aside'] = '';
-        $data['contents'] = $this->load->view('/front/main', '', true);
+        $data['contents'] = $this->load->view('/front/main', $data, true);
 //        $data['common_js'] = $this->load->view('/front/content_js/include/common_js', '', true);
 //        $data['contents_js'] = $this->load->view('/front/content_js/main_js', $data, true);
         $data['footer'] = $this->load->view('/front/include/footer', '', true);

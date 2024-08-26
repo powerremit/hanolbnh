@@ -5,7 +5,7 @@
         <!-- Main Carousel -->
         <div class="s-12 margin-bottom carousel-fade-transition owl-carousel carousel-main carousel-nav-white carousel-hide-arrows background-dark">
             <div class="item background-image" style="background-image:url(/assets/img/main.jpg)">
-                <p class="text-padding text-strong text-white text-s-size-30 text-size-60 text-uppercase background-primary">Hanol B&H Co. Ltd / <?=ENVIRONMENT?></p><br>
+                <p class="text-padding text-strong text-white text-s-size-30 text-size-60 text-uppercase background-primary">Hanol B&H Co. Ltd / <?=ENVIRONMENT?> / <?=$name?></p><br>
                 <p class="text-padding text-size-20 text-dark text-uppercase background-white"><?=$this->lang->line('main_01')?></p>
             </div>
 <!--                      	<div class="item background-image" style="background-image:url(/assets/img/carousel-02.jpg)">-->
