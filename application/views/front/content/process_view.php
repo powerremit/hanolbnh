@@ -4,8 +4,8 @@
     <!-- TOP SECTION -->
     <header class="grid">
         <div class="s-12 padding-2x">
-            <h1 class="text-strong text-white text-center center text-size-60 text-uppercase margin-bottom-20">Process</h1>
-            <p class="text-size-20 text-white text-center center text-uppercase"><?=$this->lang->line('proc_title')?></p>
+            <h1 class="text-strong text-white text-center center text-size-60 text-uppercase margin-bottom-20"><?=$this->lang->line('proc_title')//Process?></h1>
+            <p class="text-size-20 text-white text-center center text-uppercase"><?=$this->lang->line('proc_subtitle')?></p>
         </div>
     </header>
 

@@ -22,7 +22,8 @@ $lang['course_17'] = "F2R (VISA)";
 $lang['course_18'] = "(5 Years or more)";
 $lang['course_19'] = "Regional specialization type";
 
-$lang['proc_title'] = 'Learn about the process of preparing for studying abroad in Korea';
+$lang['proc_title'] = 'PROCESS';
+$lang['proc_subtitle'] = 'Learn about the process of preparing for studying abroad in Korea';
 $lang['proc_01'] = 'Choose University and write an application form';
 $lang['proc_02'] = 'Choose the university and department you want <br> Write and submit the application and company application forms.';
 $lang['proc_03'] = 'Preparing documents required for studying abroad';
@@ -43,26 +44,28 @@ $lang['proc_17'] = 'Entering the country after obtaining the visa';
 $lang['proc_18'] = 'If you pass the visa application, collect your passport at the embassy and prepare to leave.';
 $lang['proc_19'] = 'Documents';
 
-$lang['doc_title'] = '필요서류';
-$lang['doc_01'] = '지원서';
-$lang['doc_02'] = '여권';
-$lang['doc_03'] = '가족관계증명서';
-$lang['doc_03_01'] = '발급일로부터 3개월 이내의 서류';
-$lang['doc_04'] = '재정증명서';
-$lang['doc_04_01'] = '가족이 가지고 있는 자산, 기계, 토지, 특히 부모의 월 소득이 무엇인지, 소득이 어디서 나오는지 설명하는 문서...';
-$lang['doc_05'] = '졸업증명서(한국대사관 검증 필요)';
-$lang['doc_05_01'] = '베트남 대사관의 영사확인 도장과 한국대사관의 공증인 확인 도장(보라색)이 필요합니다.';
-$lang['doc_06'] = '성적증명서(한국대사관 검증 필요';
-$lang['doc_06_01'] = '베트남 대사관의 영사확인 도장과 한국대사관의 공증인 확인 도장(보라색)이 필요합니다.';
-$lang['doc_07'] = '재직확인서 또는 사업자등록증';
-$lang['doc_07_01'] = '발급일로부터 1개월 이내의 서류';
-$lang['doc_08'] = '소득증명서';
-$lang['doc_08_01'] = '';
-$lang['doc_09'] = '부모님 신분증';
-$lang['doc_09_01'] = '';
-$lang['doc_10'] = '출생증명서';
-$lang['doc_11'] = '보험증(있는경우)';
-$lang['doc_12'] = '사진';
-$lang['doc_12_01'] = '';
+$lang['doc_title'] = 'Documents';
+$lang['doc_01'] = 'Application form';
+$lang['doc_02'] = "Student's passport";
+$lang['doc_03'] = 'Family registration';
+$lang['doc_03_01'] = 'Documents within 3 months of issuance';
+$lang['doc_04'] = 'Financial explanation';
+$lang['doc_04_01'] = "A document that describes the assets, machinery, land owned by the family, especially the parents' monthly income and where the income comes from...";
+$lang['doc_05'] = 'Graduation Diploma <br> (must be verified by Korean embassy)';
+$lang['doc_05_01'] = 'A consular verification stamp from the embassy and a notary verification stamp (purple) from the Korean embassy are required.';
+$lang['doc_06'] = 'School record <br> (must ve verified by Korean embassy)';
+$lang['doc_07'] = 'Certificate of employment or business license (If any)';
+$lang['doc_07_01'] = 'Families of students whose parents are civil servants will need a pay slip or employment contract. <br>If the family is self-employed, a local certification stamp is required.';
+$lang['doc_08'] = 'Annual income certificate';
+$lang['doc_09'] = 'Time deposit bank account (over $12000 balance)';
+$lang['doc_09_01'] = 'Documents within 1 months of issuance';
+$lang['doc_10'] = "Parent's ID card";
+$lang['doc_11'] = 'Birth certificate';
+$lang['doc_12'] = 'Insurance(If any)';
+$lang['doc_13'] = 'Picture';
+$lang['doc_13_01'] = 'ID Photo or any';
+$lang['doc_14'] = 'Each University has slightly different requirements.<br>
+But most of the documents are similar.<br>
+The documents above are common documents.';
 
 
