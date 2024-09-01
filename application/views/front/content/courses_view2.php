@@ -13,7 +13,7 @@
         <div class="m-12 l-4 padding-2x background-white">
             <p class="text-strong text-size-80 text-red">01</p>
             <!-- Image-->
-            <img class="m-12 l-4" src="/assets/img/img-06.jpg">
+            <img class="m-12 l-4" src="/assets/img/courses/koreanLanguage.png">
 
             <h2 class="text-size-50 text-line-height-1 text-dark"><b><?=$this->lang->line('course_01')?></b></h2>
             <h2 class="text-size-30 text-line-height-1 text-dark"><b><?=$this->lang->line('course_02')?></b></h2>
@@ -23,7 +23,7 @@
         <div class="m-12 l-4 padding-2x background-white">
             <p class="text-strong text-size-80 text-red">02</p>
             <!-- Image-->
-            <img class="m-12 l-4" src="/assets/img/img-06.jpg">
+            <img class="m-12 l-4" src="/assets/img/courses/bachelor.png">
 
             <h2 class="text-size-50 text-line-height-1 text-dark"><b><?=$this->lang->line('course_04')?></b></h2>
             <h2 class="text-size-30 text-line-height-1 text-dark"><b><?=$this->lang->line('course_05')?></b></h2>
@@ -33,7 +33,7 @@
         <div class="m-12 l-4 padding-2x background-white">
             <p class="text-strong text-size-80 text-red">03</p>
             <!-- Image-->
-            <img class="m-12 l-4" src="/assets/img/img-06.jpg">
+            <img class="m-12 l-4" src="/assets/img/courses/associate.png">
 
             <h2 class="text-size-50 text-line-height-1 text-dark"><b><?=$this->lang->line('course_07')?></b></h2>
             <h2 class="text-size-30 text-line-height-1 text-dark"><b><?=$this->lang->line('course_08')?></b></h2>
@@ -47,7 +47,7 @@
         <div class="m-12 l-4 padding-2x background-dark">
             <p class="text-strong text-size-80 text-red">04</p>
             <!-- Image-->
-            <img class="m-12 l-4" src="/assets/img/img-04.jpg">
+            <img class="m-12 l-4" src="/assets/img/courses/master.png">
 
             <h2 class="text-size-50 text-line-height-1 text-white"><b><?=$this->lang->line('course_09')?></b></h2>
             <h2 class="text-size-30 text-line-height-1 text-white"><b><?=$this->lang->line('course_10')?></b></h2>
@@ -57,7 +57,7 @@
         <div class="m-12 l-4 padding-2x background-dark">
             <p class="text-strong text-size-80 text-red">05</p>
             <!-- Image-->
-            <img class="m-12 l-4" src="/assets/img/img-04.jpg">
+            <img class="m-12 l-4" src="/assets/img/courses/doctor.png">
 
             <h2 class="text-size-50 text-line-height-1 text-white"><b><?=$this->lang->line('course_12')?></b></h2>
             <h2 class="text-size-30 text-line-height-1 text-white"><b><?=$this->lang->line('course_10')?></b></h2>
@@ -67,7 +67,7 @@
         <div class="m-12 l-4 padding-2x background-dark">
             <p class="text-strong text-size-80 text-red">06</p>
             <!-- Image-->
-            <img class="m-12 l-4" src="/assets/img/img-04.jpg">
+            <img class="m-12 l-4" src="/assets/img/courses/exchange.png">
 
             <h2 class="text-size-50 text-line-height-1 text-white"><b><?=$this->lang->line('course_14')?></b></h2>
             <h2 class="text-size-30 text-line-height-1 text-white"><b><?=$this->lang->line('course_15')?></b></h2>
@@ -81,7 +81,7 @@
         <div class="m-12 l-6 padding-2x background-aqua">
             <p class="text-strong text-size-80 text-red">07</p>
             <!-- Image-->
-            <img class="m-12 l-6" src="/assets/img/img-04.jpg">
+            <img class="m-12 l-6" src="/assets/img/courses/f2r.png">
             <h2 class="text-size-50 text-line-height-1 text-white"><b><?=$this->lang->line('course_17')?></b></h2>
             <h3 class="text-size-30 text-line-height-1 text-white"><b><?=$this->lang->line('course_18')?></b></h3>
             <p><p><?=$this->lang->line('course_19')?></p></p>
