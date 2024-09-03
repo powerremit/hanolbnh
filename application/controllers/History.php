@@ -14,9 +14,9 @@ class History extends CI_Controller {
 //        $data['includes'] = $this->load->view('/front/include/includes', '', true);
         $data['header'] = $this->load->view('/front/include/header', '', true);
 //        $data['aside'] = '';
-        $data['contents'] = $this->load->view('/front/content/history', '', true);
-//        $data['common_js'] = $this->load->view('/front/content_js/include/common_js', '', true);
-//        $data['contents_js'] = $this->load->view('/front/content_js/main_js', $data, true);
+        $data['contents'] = $this->load->view('/front/content/history_view', '', true);
+        $data['common_js'] = $this->load->view('/front/content_js/include/common_js', '', true);
+        $data['contents_js'] = $this->load->view('/front/content_js/history_js', '', true);
         $data['footer'] = $this->load->view('/front/include/footer', '', true);
 		$this->load->view(__VIEW_PATH_LAYOUT, $data);
 	}
@@ -27,8 +27,8 @@ class History extends CI_Controller {
         $data['header'] = $this->load->view('/front/include/header', '', true);
 //        $data['aside'] = '';
         $data['contents'] = $this->load->view('/front/content/history/vietnam_view', '', true);
-//        $data['common_js'] = $this->load->view('/front/content_js/include/common_js', '', true);
-//        $data['contents_js'] = $this->load->view('/front/content_js/main_js', $data, true);
+        $data['common_js'] = $this->load->view('/front/content_js/include/common_js', '', true);
+        $data['contents_js'] = $this->load->view('/front/content_js/history/vietnam_js', '', true);
         $data['footer'] = $this->load->view('/front/include/footer', '', true);
         $this->load->view(__VIEW_PATH_LAYOUT, $data);
     }
@@ -38,8 +38,8 @@ class History extends CI_Controller {
         $data['header'] = $this->load->view('/front/include/header', '', true);
 //        $data['aside'] = '';
         $data['contents'] = $this->load->view('/front/content/history/mongolia_view', '', true);
-//        $data['common_js'] = $this->load->view('/front/content_js/include/common_js', '', true);
-//        $data['contents_js'] = $this->load->view('/front/content_js/main_js', $data, true);
+        $data['common_js'] = $this->load->view('/front/content_js/include/common_js', '', true);
+        $data['contents_js'] = $this->load->view('/front/content_js/history/mongolia_js', '', true);
         $data['footer'] = $this->load->view('/front/include/footer', '', true);
         $this->load->view(__VIEW_PATH_LAYOUT, $data);
     }
@@ -49,8 +49,8 @@ class History extends CI_Controller {
         $data['header'] = $this->load->view('/front/include/header', '', true);
 //        $data['aside'] = '';
         $data['contents'] = $this->load->view('/front/content/history/iran_view', '', true);
-//        $data['common_js'] = $this->load->view('/front/content_js/include/common_js', '', true);
-//        $data['contents_js'] = $this->load->view('/front/content_js/main_js', $data, true);
+        $data['common_js'] = $this->load->view('/front/content_js/include/common_js', '', true);
+        $data['contents_js'] = $this->load->view('/front/content_js/history/iran_js', '', true);
         $data['footer'] = $this->load->view('/front/include/footer', '', true);
         $this->load->view(__VIEW_PATH_LAYOUT, $data);
     }
@@ -60,8 +60,8 @@ class History extends CI_Controller {
         $data['header'] = $this->load->view('/front/include/header', '', true);
 //        $data['aside'] = '';
         $data['contents'] = $this->load->view('/front/content/history/malaysia_view', '', true);
-//        $data['common_js'] = $this->load->view('/front/content_js/include/common_js', '', true);
-//        $data['contents_js'] = $this->load->view('/front/content_js/main_js', $data, true);
+        $data['common_js'] = $this->load->view('/front/content_js/include/common_js', '', true);
+        $data['contents_js'] = $this->load->view('/front/content_js/history/malaysia_js', '', true);
         $data['footer'] = $this->load->view('/front/include/footer', '', true);
         $this->load->view(__VIEW_PATH_LAYOUT, $data);
     }
@@ -71,8 +71,8 @@ class History extends CI_Controller {
         $data['header'] = $this->load->view('/front/include/header', '', true);
 //        $data['aside'] = '';
         $data['contents'] = $this->load->view('/front/content/history/indonesia_view', '', true);
-//        $data['common_js'] = $this->load->view('/front/content_js/include/common_js', '', true);
-//        $data['contents_js'] = $this->load->view('/front/content_js/main_js', $data, true);
+        $data['common_js'] = $this->load->view('/front/content_js/include/common_js', '', true);
+        $data['contents_js'] = $this->load->view('/front/content_js/history/indonesia_js', '', true);
         $data['footer'] = $this->load->view('/front/include/footer', '', true);
         $this->load->view(__VIEW_PATH_LAYOUT, $data);
     }
@@ -82,8 +82,8 @@ class History extends CI_Controller {
         $data['header'] = $this->load->view('/front/include/header', '', true);
 //        $data['aside'] = '';
         $data['contents'] = $this->load->view('/front/content/history/pakistan_view', '', true);
-//        $data['common_js'] = $this->load->view('/front/content_js/include/common_js', '', true);
-//        $data['contents_js'] = $this->load->view('/front/content_js/main_js', $data, true);
+        $data['common_js'] = $this->load->view('/front/content_js/include/common_js', '', true);
+        $data['contents_js'] = $this->load->view('/front/content_js/history/pakistan_js', '', true);
         $data['footer'] = $this->load->view('/front/include/footer', '', true);
         $this->load->view(__VIEW_PATH_LAYOUT, $data);
     }

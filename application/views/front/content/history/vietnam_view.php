@@ -7,6 +7,8 @@
         </div>
     </header>
 
+    <?php $this->load->view('front/content/history/history_component.php'); ?>
+
     <!-- SECTION  -->
     <section class="grid">
         <div class="s-12 padding">
@@ -94,7 +96,7 @@
     <section class="grid">
         <div class="s-12 padding">
             <h3 class="text-strong text-size-40">February, 2017</h3>
-            <h3 class="text-strong text-size-40">Hanol in Hanoi, Vietnam</h3>
+            <h3 class="text-strong text-size-20">Hanol in Hanoi, Vietnam</h3>
             <p class="text-padding text-center">
                 Hanol B&H held an usual interview in Hanoi, Vietnam.
             </p>
@@ -121,7 +123,7 @@
     <section class="grid">
         <div class="s-12 padding">
             <h3 class="text-strong text-size-40">December, 2016</h3>
-            <h3 class="text-strong text-size-40">Hanol in Hanoi, Vietnam</h3>
+            <h3 class="text-strong text-size-20">Hanol in Hanoi, Vietnam</h3>
             <p class="text-padding text-center">
                 Hanol B&H held an usual interview with Kyungsung University in Hanoi, Vietnam.
             </p>
@@ -160,7 +162,7 @@
     <section class="grid">
         <div class="s-12 padding">
             <h3 class="text-strong text-size-40">March, 2016</h3>
-            <h3 class="text-strong text-size-40">Students arrived in Kyungsung & Pukyung</h3>
+            <h3 class="text-strong text-size-20">Students arrived in Kyungsung & Pukyung</h3>
             <p class="text-padding text-center">
                 Vietnamese students arrived for the March semester 2016, Kyungsung & Pukyung University.
                 Hanol B&H gets the best students for sure.
@@ -175,7 +177,7 @@
     <section class="grid">
         <div class="s-12 padding">
             <h3 class="text-strong text-size-40">January, 2016</h3>
-            <h3 class="text-strong text-size-40">Hanol in Hanoi, Vietnam</h3>
+            <h3 class="text-strong text-size-20">Hanol in Hanoi, Vietnam</h3>
             <p class="text-padding text-center">
                 Hanol B&H held an usual interview in Hanoi, Vietnam.
                 Also, Hanol made a nice M.O.U between Kyungsung University and Hung Vuong university.
@@ -193,7 +195,7 @@
     <section class="grid">
         <div class="s-12 padding">
             <h3 class="text-strong text-size-40">December, 2015</h3>
-            <h3 class="text-strong text-size-40">Hanol in Hanoi, Vietnam</h3>
+            <h3 class="text-strong text-size-20">Hanol in Hanoi, Vietnam</h3>
             <p class="text-padding text-center">
                 Hanol B&H Held an interview session is Hanoi, Vietnam with Kyungsung University.
                 Many young applicants were happy to receive pre-letter of acceptance.
@@ -212,7 +214,7 @@
     <section class="grid">
         <div class="s-12 padding">
             <h3 class="text-strong text-size-40">October, 2015</h3>
-            <h3 class="text-strong text-size-40">Hanol in Hanoi, Vietnam</h3>
+            <h3 class="text-strong text-size-20">Hanol in Hanoi, Vietnam</h3>
             <p class="text-padding text-center">
                 Hanol held an awesome interview session in Daewoo Hanoi Hotel on October, 2015.
                 3 universities in Korea came together with Hanol, so the students could able to get the pre-letters of acceptance right after interviewing.
@@ -242,7 +244,7 @@
     <section class="grid">
         <div class="s-12 padding">
             <h3 class="text-strong text-size-40">July, 2015</h3>
-            <h3 class="text-strong text-size-40">Hanol in Hanoi, Vietnam</h3>
+            <h3 class="text-strong text-size-20">Hanol in Hanoi, Vietnam</h3>
             <p class="text-padding text-center">
                 Vietnamese students arrived for the March semester 2016, Kyungsung & Pukyung University.
                 Hanol B&H gets the best students for sure.
@@ -270,7 +272,7 @@
     <section class="grid">
         <div class="s-12 padding">
             <h3 class="text-strong text-size-40">April, 2015</h3>
-            <h3 class="text-strong text-size-40">Hanol in Hanoi, Vietnam</h3>
+            <h3 class="text-strong text-size-20">Hanol in Hanoi, Vietnam</h3>
             <p class="text-padding text-center">
                 Vietnamese students arrived for the March semester 2016, Kyungsung & Pukyung University.
                 Hanol B&H gets the best students for sure.

@@ -16,6 +16,7 @@
     <script type="text/javascript" src="/assets/js/jquery-ui.min.js"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fslightbox/3.4.1/index.min.js"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.js"></script>
+    <script type="text/javascript" src="/assets/js/loading.js"></script>
 </head>
 
 <script type="text/javascript" src="/assets/js/responsee.js"></script>
@@ -35,6 +36,8 @@ You can use this class:
 <body class="size-1520 primary-color-blue background-dark">
     <?php echo $header?>
     <?php echo $contents?>
+    <?php echo $contents_js?>
+    <?php echo $common_js?>
     <?php echo $footer?>
 </body>
 </html>

@@ -10,9 +10,9 @@ class Contact extends CI_Controller {
 //        $data['includes'] = $this->load->view('/front/include/includes', '', true);
         $data['header'] = $this->load->view('/front/include/header', '', true);
 //        $data['aside'] = '';
-        $data['contents'] = $this->load->view('/front/content/contact', '', true);
-//        $data['common_js'] = $this->load->view('/front/content_js/include/common_js', '', true);
-//        $data['contents_js'] = $this->load->view('/front/content_js/main_js', $data, true);
+        $data['contents'] = $this->load->view('/front/content/contact_view', '', true);
+        $data['common_js'] = $this->load->view('/front/content_js/include/common_js', '', true);
+        $data['contents_js'] = $this->load->view('/front/content_js/contact_js', '', true);
         $data['footer'] = $this->load->view('/front/include/footer', '', true);
 		$this->load->view(__VIEW_PATH_LAYOUT, $data);
 	}

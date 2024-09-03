@@ -84,6 +84,9 @@ defined('EXIT_DATABASE')       OR define('EXIT_DATABASE', 8); // database error
 defined('EXIT__AUTO_MIN')      OR define('EXIT__AUTO_MIN', 9); // lowest automatically-assigned error code
 defined('EXIT__AUTO_MAX')      OR define('EXIT__AUTO_MAX', 125); // highest automatically-assigned error code
 
+defined('__PROJECT_NAME')      OR define('__PROJECT_NAME', 'hanolbnh');
+defined('__PROJECT_TITLE_NAME')      OR define('__PROJECT_TITLE_NAME', 'hanobnh');
+
 defined('__VIEW_PATH_INCLUDES')      OR define('__VIEW_PATH_INCLUDES', '/front/include/includes');
 defined('__VIEW_PATH_HEADER')      OR define('__VIEW_PATH_HEADER', '/front/include/header');
 defined('__VIEW_PATH_CONTENT')      OR define('__VIEW_PATH_CONTENT', '/front/content');
@@ -93,3 +96,6 @@ defined('__VIEW_PATH_FOOTER')      OR define('__VIEW_PATH_FOOTER', '/front/inclu
 defined('__VIEW_PATH_POPUP')      OR define('__VIEW_PATH_POPUP', '/front/include/popup.php');
 defined('__VIEW_PATH_LAYOUT')      OR define('__VIEW_PATH_LAYOUT', '/front/include/layout');
 defined('__VIEW_PATH_LAYOUT_SUB')      OR define('__VIEW_PATH_LAYOUT_SUB', '/front/include/layout_sub');
+
+defined('_COMMON_MODAL_ID')      OR define('_COMMON_MODAL_ID', 'cmnModal');
+define('CRYPTOJS_KEY', 'hanolbnh');
