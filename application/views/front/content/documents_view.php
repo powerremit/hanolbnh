@@ -11,7 +11,7 @@
 
     <!-- SECTION 1 -->
     <section class="grid">
-        <div class="s-9 center background-dark">
+        <div class="s-12 center background-dark">
             <table>
                 <thead>
                     <tr class="background-blue text-size-20 ">
