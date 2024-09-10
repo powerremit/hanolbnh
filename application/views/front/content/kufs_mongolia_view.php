@@ -455,6 +455,23 @@
         border-radius: 10px;
     }
 
+    .swiper-button-prev,
+    .swiper-button-next {
+        background-color: #fff;
+        opacity: 0.7;
+        padding: 15px 5px;
+        border-radius: 20px;
+        color: black !important;
+    }
+
+    .swiper-button-prev:after,
+    .swiper-button-next:after {
+        font-size: 1.1rem !important;
+        font-weight: 600 !important;
+    }
+
+
+
 
 </style>
 <script>
