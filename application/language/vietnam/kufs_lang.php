@@ -21,8 +21,8 @@ $lang['kufs_mongo_2016_07'] = 'Trường dạy tiếng Hàn tại Trường 48 &
 $lang['kufs_mongo_2016_08'] = 'Trường học 48 ở Ulaanbaatar, Mông Cổ<br>Lễ khai trương';
 $lang['kufs_mongo_2016_09'] = 'Trường học 51 ở Ulaanbaatar, Mông Cổ<br>Lễ khai trương';
 
-$lang['kufs_mongo_2017_01'] = 'From 13th of Feb. to 18th, There were huge events going on Mongolia by Hanol B&H Co. Ltd.
-Hanol B&H and 3 Korean universities (Kyungsung, Soongsil, Hansung) visited 6 Mongolian schools to share great information for the students.';
+$lang['kufs_mongo_2017_01'] = 'Từ ngày 13 đến ngày 18 tháng 2, đã diễn ra các sự kiện lớn do Hanol B&H Co. Ltd tổ chức tại Mông Cổ.
+Hanol B&H và 3 trường đại học Hàn Quốc (Kyungsung, Soongsil, Hansung) đã đến thăm 6 trường của Mông Cổ để chia sẻ những thông tin tuyệt vời cho các bạn sinh viên.';
 $lang['kufs_mongo_2017_02'] = 'Ngày 16 tháng 2 năm 2017 - Tại Trường học 51';
 $lang['kufs_mongo_2017_03'] = 'Ngày 16 tháng 2 năm 2017 - Tại Trường học 48';
 $lang['kufs_mongo_2017_04'] = 'Ngày 15 tháng 2 năm 2017 - Tại Trường học 75';
