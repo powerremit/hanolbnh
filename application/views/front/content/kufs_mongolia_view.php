@@ -27,16 +27,16 @@
             <div class="swiper-wrapper">
                 <!-- Slides -->
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/kyungsung/kyungsung_agreement_01.JPG" alt="Image">
+                    <img src="/assets/img/kufs/mongolia/kyungsung/kyungsung_agreement_01.jpg" alt="Image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/kyungsung/kyungsung_agreement_02.JPG" alt="Image">
+                    <img src="/assets/img/kufs/mongolia/kyungsung/kyungsung_agreement_02.jpg" alt="Image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/kyungsung/kyungsung_agreement_03.JPG" alt="Image">
+                    <img src="/assets/img/kufs/mongolia/kyungsung/kyungsung_agreement_03.jpg" alt="Image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/kyungsung/kyungsung_agreement_04.JPG" alt="Image">
+                    <img src="/assets/img/kufs/mongolia/kyungsung/kyungsung_agreement_04.jpg" alt="Image">
                 </div>
             </div>
             <!-- If we need pagination -->
@@ -142,49 +142,49 @@
             <div class="swiper-wrapper">
                 <!-- Slides -->
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/agreement_01.JPG" alt="Image">
+                    <img src="/assets/img/kufs/mongolia/soongsil/agreement_01.jpg" alt="Image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/agreement_02.JPG" alt="Image">
+                    <img src="/assets/img/kufs/mongolia/soongsil/agreement_02.jpg" alt="Image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/agreement_03.JPG" alt="Image">
+                    <img src="/assets/img/kufs/mongolia/soongsil/agreement_03.jpg" alt="Image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/agreement_04.JPG" alt="Image">
+                    <img src="/assets/img/kufs/mongolia/soongsil/agreement_04.jpg" alt="Image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/present_01.JPG" alt="Image">
+                    <img src="/assets/img/kufs/mongolia/soongsil/present_01.jpg" alt="Image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/present_02.JPG" alt="Image">
+                    <img src="/assets/img/kufs/mongolia/soongsil/present_02.jpg" alt="Image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/present_03.JPG" alt="Image">
+                    <img src="/assets/img/kufs/mongolia/soongsil/present_03.jpg" alt="Image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/present_04.JPG" alt="Image">
+                    <img src="/assets/img/kufs/mongolia/soongsil/present_04.jpg" alt="Image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/present_05.JPG" alt="Image">
+                    <img src="/assets/img/kufs/mongolia/soongsil/present_05.jpg" alt="Image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/sign_01.JPG" alt="Image">
+                    <img src="/assets/img/kufs/mongolia/soongsil/sign_01.jpg" alt="Image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/sign_02.JPG" alt="Image">
+                    <img src="/assets/img/kufs/mongolia/soongsil/sign_02.jpg" alt="Image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/sign_03.JPG" alt="Image">
+                    <img src="/assets/img/kufs/mongolia/soongsil/sign_03.jpg" alt="Image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/sign_04.JPG" alt="Image">
+                    <img src="/assets/img/kufs/mongolia/soongsil/sign_04.jpg" alt="Image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/sign_05.JPG" alt="Image">
+                    <img src="/assets/img/kufs/mongolia/soongsil/sign_05.jpg" alt="Image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/sign_06.JPG" alt="Image">
+                    <img src="/assets/img/kufs/mongolia/soongsil/sign_06.jpg" alt="Image">
                 </div>
             </div>
             <!-- If we need pagination -->
@@ -290,49 +290,49 @@
             <div class="swiper-wrapper">
                 <!-- Slides -->
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/hansung/agreement_01.JPG" alt="Image">
+                    <img src="/assets/img/kufs/mongolia/hansung/agreement_01.jpg" alt="Image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/hansung/agreement_02.JPG" alt="Image">
+                    <img src="/assets/img/kufs/mongolia/hansung/agreement_02.jpg" alt="Image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/hansung/agreement_03.JPG" alt="Image">
+                    <img src="/assets/img/kufs/mongolia/hansung/agreement_03.jpg" alt="Image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/hansung/meeting_01.JPG" alt="Image">
+                    <img src="/assets/img/kufs/mongolia/hansung/meeting_01.jpg" alt="Image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/hansung/meeting_02.JPG" alt="Image">
+                    <img src="/assets/img/kufs/mongolia/hansung/meeting_02.jpg" alt="Image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/hansung/meeting_03.JPG" alt="Image">
+                    <img src="/assets/img/kufs/mongolia/hansung/meeting_03.jpg" alt="Image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/hansung/sign_01.JPG" alt="Image">
+                    <img src="/assets/img/kufs/mongolia/hansung/sign_01.jpg" alt="Image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/hansung/sign_02.JPG" alt="Image">
+                    <img src="/assets/img/kufs/mongolia/hansung/sign_02.jpg" alt="Image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/hansung/sign_03.JPG" alt="Image">
+                    <img src="/assets/img/kufs/mongolia/hansung/sign_03.jpg" alt="Image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/hansung/sign_04.JPG" alt="Image">
+                    <img src="/assets/img/kufs/mongolia/hansung/sign_04.jpg" alt="Image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/hansung/present_01.JPG" alt="Image">
+                    <img src="/assets/img/kufs/mongolia/hansung/present_01.jpg" alt="Image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/hansung/present_02.JPG" alt="Image">
+                    <img src="/assets/img/kufs/mongolia/hansung/present_02.jpg" alt="Image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/hansung/present_03.JPG" alt="Image">
+                    <img src="/assets/img/kufs/mongolia/hansung/present_03.jpg" alt="Image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/hansung/present_04.JPG" alt="Image">
+                    <img src="/assets/img/kufs/mongolia/hansung/present_04.jpg" alt="Image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/hansung/present_05.JPG" alt="Image">
+                    <img src="/assets/img/kufs/mongolia/hansung/present_05.jpg" alt="Image">
                 </div>
             </div>
             <!-- If we need pagination -->
