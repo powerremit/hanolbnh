@@ -47,9 +47,9 @@
     <!-- SECTION 3 -->
     <section class="grid margin">
         <!-- Image-->
-        <img class="s-12 m-6 margin-bottom" src="/assets/img/img-01.jpg">
+        <img class="s-12 m-6 margin-bottom" src="/assets/img/main/main3.jpg">
 
-        <div class="s-12 m-6 padding-2x margin-bottom background-blue">
+        <div class="s-12 m-6 padding margin-bottom background-blue">
             <h2 class="text-strong text-size-50 text-line-height-1">HANOL B&H</h2>
             <ul>
                 <li><?=$this->lang->line('main_06')?></li><br>
@@ -58,7 +58,9 @@
                 <li><?=$this->lang->line('main_09')?></li><br>
             </ul>
             <br>
-            <h2 class="text-strong text-size-25 text-line-height-1"><?=$this->lang->line('main_10')?></h2>
+        </div>
+        <div class="s-12 m-12 padding margin-bottom background-aqua">
+            <h2 class="text-strong text-size-50 text-line-height-1"><?=$this->lang->line('main_10')?></h2>
             <ul>
                 <li><?=$this->lang->line('main_11')?></li><br>
                 <li><?=$this->lang->line('main_12')?></li><br>
