@@ -16,13 +16,13 @@
                 <?=$this->lang->line('kufs_viet_03')?>
             </p>
         </div>
-        <a class="s-12 m-4 padding vertical-center" data-fslightbox href="/assets/img/kufs/vietnam/national_hanoi_agric_01.jpg">
+        <a class="s-12 m-4 padding vertical-center" data-fslightbox="1" href="/assets/img/kufs/vietnam/national_hanoi_agric_01.jpg">
             <img src="/assets/img/kufs/vietnam/national_hanoi_agric_01.jpg" alt="Image">
         </a>
-        <a class="s-12 m-4 padding vertical-center" data-fslightbox href="/assets/img/kufs/vietnam/national_hanoi_agric_02.jpg">
+        <a class="s-12 m-4 padding vertical-center" data-fslightbox="1" href="/assets/img/kufs/vietnam/national_hanoi_agric_02.jpg">
             <img src="/assets/img/kufs/vietnam/national_hanoi_agric_02.jpg" alt="Image">
         </a>
-        <a class="s-12 m-4 padding vertical-center" data-fslightbox href="/assets/img/kufs/vietnam/national_hanoi_agric_03.jpg">
+        <a class="s-12 m-4 padding vertical-center" data-fslightbox="1" href="/assets/img/kufs/vietnam/national_hanoi_agric_03.jpg">
             <img src="/assets/img/kufs/vietnam/national_hanoi_agric_03.jpg" alt="Image">
         </a>
     </section>
@@ -36,10 +36,10 @@
                 <?=$this->lang->line('kufs_viet_06')?>
             </p>
         </div>
-        <a class="s-12 m-6 padding vertical-center" data-fslightbox href="/assets/img/kufs/vietnam/national_hanoi_economic_01.jpg">
+        <a class="s-12 m-6 padding vertical-center" data-fslightbox="2" href="/assets/img/kufs/vietnam/national_hanoi_economic_01.jpg">
             <img src="/assets/img/kufs/vietnam/national_hanoi_economic_01.jpg" alt="Image">
         </a>
-        <a class="s-12 m-6 padding vertical-center" data-fslightbox href="/assets/img/kufs/vietnam/national_hanoi_economic_02.jpg">
+        <a class="s-12 m-6 padding vertical-center" data-fslightbox="2" href="/assets/img/kufs/vietnam/national_hanoi_economic_02.jpg">
             <img src="/assets/img/kufs/vietnam/national_hanoi_economic_02.jpg" alt="Image">
         </a>
     </section>
@@ -93,27 +93,27 @@
             <div class="swiper-wrapper">
                 <!-- Slides -->
                 <div class="swiper-slide">
-                    <a class="s-12 m-3 vertical-center" data-fslightbox href="/assets/img/kufs/vietnam/national_traffic_01.jpg">
+                    <a class="s-12 m-3 vertical-center" data-fslightbox="3" href="/assets/img/kufs/vietnam/national_traffic_01.jpg">
                         <img src="/assets/img/kufs/vietnam/national_traffic_01.jpg" alt="Image">
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a class="s-12 m-3 vertical-center" data-fslightbox href="/assets/img/kufs/vietnam/national_traffic_02.jpg">
+                    <a class="s-12 m-3 vertical-center" data-fslightbox="3" href="/assets/img/kufs/vietnam/national_traffic_02.jpg">
                         <img src="/assets/img/kufs/vietnam/national_traffic_02.jpg" alt="Image">
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a class="s-12 m-3 vertical-center" data-fslightbox href="/assets/img/kufs/vietnam/national_traffic_03.jpg">
+                    <a class="s-12 m-3 vertical-center" data-fslightbox="3" href="/assets/img/kufs/vietnam/national_traffic_03.jpg">
                         <img src="/assets/img/kufs/vietnam/national_traffic_03.jpg" alt="Image">
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a class="s-12 m-3 vertical-center" data-fslightbox href="/assets/img/kufs/vietnam/national_traffic_04.jpg">
+                    <a class="s-12 m-3 vertical-center" data-fslightbox="3" href="/assets/img/kufs/vietnam/national_traffic_04.jpg">
                         <img src="/assets/img/kufs/vietnam/national_traffic_04.jpg" alt="Image">
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a class="s-12 m-3 vertical-center" data-fslightbox href="/assets/img/kufs/vietnam/national_traffic_05.jpg">
+                    <a class="s-12 m-3 vertical-center" data-fslightbox="3" href="/assets/img/kufs/vietnam/national_traffic_05.jpg">
                         <img src="/assets/img/kufs/vietnam/national_traffic_05.jpg" alt="Image">
                     </a>
                 </div>

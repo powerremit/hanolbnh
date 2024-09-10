@@ -27,16 +27,24 @@
             <div class="swiper-wrapper">
                 <!-- Slides -->
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/kyungsung/kyungsung_agreement_01.jpg" alt="Image">
+                    <a data-fslightbox="kyungsung" href="/assets/img/kufs/mongolia/kyungsung/kyungsung_agreement_01.jpg">
+                        <img src="/assets/img/kufs/mongolia/kyungsung/kyungsung_agreement_01.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/kyungsung/kyungsung_agreement_02.jpg" alt="Image">
+                    <a data-fslightbox="kyungsung" href="/assets/img/kufs/mongolia/kyungsung/kyungsung_agreement_02.jpg">
+                        <img src="/assets/img/kufs/mongolia/kyungsung/kyungsung_agreement_02.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/kyungsung/kyungsung_agreement_03.jpg" alt="Image">
+                    <a data-fslightbox="kyungsung" href="/assets/img/kufs/mongolia/kyungsung/kyungsung_agreement_03.jpg">
+                        <img src="/assets/img/kufs/mongolia/kyungsung/kyungsung_agreement_03.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/kyungsung/kyungsung_agreement_04.jpg" alt="Image">
+                    <a data-fslightbox="kyungsung" href="/assets/img/kufs/mongolia/kyungsung/kyungsung_agreement_04.jpg">
+                        <img src="/assets/img/kufs/mongolia/kyungsung/kyungsung_agreement_04.jpg" alt="Image">
+                    </a>
                 </div>
             </div>
             <!-- If we need pagination -->
@@ -61,22 +69,34 @@
             <div class="swiper-wrapper">
                 <!-- Slides -->
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/kyungsung/28_ceremony_01.jpg" alt="Image">
+                    <a data-fslightbox="28" href="/assets/img/kufs/mongolia/kyungsung/28_ceremony_01.jpg">
+                        <img src="/assets/img/kufs/mongolia/kyungsung/28_ceremony_01.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/kyungsung/28_ceremony_02.jpg" alt="Image">
+                    <a data-fslightbox="28" href="/assets/img/kufs/mongolia/kyungsung/28_ceremony_02.jpg">
+                        <img src="/assets/img/kufs/mongolia/kyungsung/28_ceremony_02.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/kyungsung/28_ceremony_03.jpg" alt="Image">
+                    <a data-fslightbox="28" href="/assets/img/kufs/mongolia/kyungsung/28_ceremony_03.jpg">
+                        <img src="/assets/img/kufs/mongolia/kyungsung/28_ceremony_03.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/kyungsung/28_ceremony_04.jpg" alt="Image">
+                    <a data-fslightbox="28" href="/assets/img/kufs/mongolia/kyungsung/28_ceremony_04.jpg">
+                        <img src="/assets/img/kufs/mongolia/kyungsung/28_ceremony_04.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/kyungsung/28_ceremony_05.jpg" alt="Image">
+                    <a data-fslightbox="28" href="/assets/img/kufs/mongolia/kyungsung/28_ceremony_05.jpg">
+                        <img src="/assets/img/kufs/mongolia/kyungsung/28_ceremony_05.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/kyungsung/28_ceremony_06.jpg" alt="Image">
+                    <a data-fslightbox="28" href="/assets/img/kufs/mongolia/kyungsung/28_ceremony_06.jpg">
+                        <img src="/assets/img/kufs/mongolia/kyungsung/28_ceremony_06.jpg" alt="Image">
+                    </a>
                 </div>
             </div>
             <!-- If we need pagination -->
@@ -101,22 +121,34 @@
             <div class="swiper-wrapper">
                 <!-- Slides -->
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/kyungsung/50_ceremony_01.jpg" alt="Image">
+                    <a data-fslightbox="50" href="/assets/img/kufs/mongolia/kyungsung/50_ceremony_01.jpg">
+                        <img src="/assets/img/kufs/mongolia/kyungsung/50_ceremony_01.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/kyungsung/50_ceremony_02.jpg" alt="Image">
+                    <a data-fslightbox="50" href="/assets/img/kufs/mongolia/kyungsung/50_ceremony_02.jpg">
+                        <img src="/assets/img/kufs/mongolia/kyungsung/50_ceremony_02.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/kyungsung/50_ceremony_03.jpg" alt="Image">
+                    <a data-fslightbox="50" href="/assets/img/kufs/mongolia/kyungsung/50_ceremony_03.jpg">
+                        <img src="/assets/img/kufs/mongolia/kyungsung/50_ceremony_03.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/kyungsung/50_ceremony_04.jpg" alt="Image">
+                    <a data-fslightbox="50" href="/assets/img/kufs/mongolia/kyungsung/50_ceremony_04.jpg">
+                        <img src="/assets/img/kufs/mongolia/kyungsung/50_ceremony_04.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/kyungsung/50_ceremony_05.jpg" alt="Image">
+                    <a data-fslightbox="50" href="/assets/img/kufs/mongolia/kyungsung/50_ceremony_05.jpg">
+                        <img src="/assets/img/kufs/mongolia/kyungsung/50_ceremony_05.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/kyungsung/50_ceremony_06.jpg" alt="Image">
+                    <a data-fslightbox="50" href="/assets/img/kufs/mongolia/kyungsung/50_ceremony_06.jpg">
+                        <img src="/assets/img/kufs/mongolia/kyungsung/50_ceremony_06.jpg" alt="Image">
+                    </a>
                 </div>
             </div>
             <!-- If we need pagination -->
@@ -142,49 +174,79 @@
             <div class="swiper-wrapper">
                 <!-- Slides -->
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/agreement_01.jpg" alt="Image">
+                    <a data-fslightbox="soongsil" href="/assets/img/kufs/mongolia/soongsil/agreement_01.jpg">
+                        <img src="/assets/img/kufs/mongolia/soongsil/agreement_01.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/agreement_02.jpg" alt="Image">
+                    <a data-fslightbox="soongsil" href="/assets/img/kufs/mongolia/soongsil/agreement_02.jpg">
+                        <img src="/assets/img/kufs/mongolia/soongsil/agreement_02.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/agreement_03.jpg" alt="Image">
+                    <a data-fslightbox="soongsil" href="/assets/img/kufs/mongolia/soongsil/agreement_03.jpg">
+                        <img src="/assets/img/kufs/mongolia/soongsil/agreement_03.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/agreement_04.jpg" alt="Image">
+                    <a data-fslightbox="soongsil" href="/assets/img/kufs/mongolia/soongsil/agreement_04.jpg">
+                        <img src="/assets/img/kufs/mongolia/soongsil/agreement_04.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/present_01.jpg" alt="Image">
+                    <a data-fslightbox="soongsil" href="/assets/img/kufs/mongolia/soongsil/present_01.jpg">
+                        <img src="/assets/img/kufs/mongolia/soongsil/present_01.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/present_02.jpg" alt="Image">
+                    <a data-fslightbox="soongsil" href="/assets/img/kufs/mongolia/soongsil/present_02.jpg">
+                        <img src="/assets/img/kufs/mongolia/soongsil/present_02.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/present_03.jpg" alt="Image">
+                    <a data-fslightbox="soongsil" href="/assets/img/kufs/mongolia/soongsil/present_03.jpg">
+                        <img src="/assets/img/kufs/mongolia/soongsil/present_03.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/present_04.jpg" alt="Image">
+                    <a data-fslightbox="soongsil" href="/assets/img/kufs/mongolia/soongsil/present_04.jpg">
+                        <img src="/assets/img/kufs/mongolia/soongsil/present_04.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/present_05.jpg" alt="Image">
+                    <a data-fslightbox="soongsil" href="/assets/img/kufs/mongolia/soongsil/present_05.jpg">
+                        <img src="/assets/img/kufs/mongolia/soongsil/present_05.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/sign_01.jpg" alt="Image">
+                    <a data-fslightbox="soongsil" href="/assets/img/kufs/mongolia/soongsil/sign_01.jpg">
+                        <img src="/assets/img/kufs/mongolia/soongsil/sign_01.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/sign_02.jpg" alt="Image">
+                    <a data-fslightbox="soongsil" href="/assets/img/kufs/mongolia/soongsil/sign_02.jpg">
+                        <img src="/assets/img/kufs/mongolia/soongsil/sign_02.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/sign_03.jpg" alt="Image">
+                    <a data-fslightbox="soongsil" href="/assets/img/kufs/mongolia/soongsil/sign_03.jpg">
+                        <img src="/assets/img/kufs/mongolia/soongsil/sign_03.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/sign_04.jpg" alt="Image">
+                    <a data-fslightbox="soongsil" href="/assets/img/kufs/mongolia/soongsil/sign_04.jpg">
+                        <img src="/assets/img/kufs/mongolia/soongsil/sign_04.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/sign_05.jpg" alt="Image">
+                    <a data-fslightbox="soongsil" href="/assets/img/kufs/mongolia/soongsil/sign_05.jpg">
+                        <img src="/assets/img/kufs/mongolia/soongsil/sign_05.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/sign_06.jpg" alt="Image">
+                    <a data-fslightbox="soongsil" href="/assets/img/kufs/mongolia/soongsil/sign_06.jpg">
+                        <img src="/assets/img/kufs/mongolia/soongsil/sign_06.jpg" alt="Image">
+                    </a>
                 </div>
             </div>
             <!-- If we need pagination -->
@@ -209,22 +271,34 @@
             <div class="swiper-wrapper">
                 <!-- Slides -->
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/75_ceremony_01.jpg" alt="Image">
+                    <a data-fslightbox="75" href="/assets/img/kufs/mongolia/soongsil/75_ceremony_01.jpg">
+                        <img src="/assets/img/kufs/mongolia/soongsil/75_ceremony_01.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/75_ceremony_02.jpg" alt="Image">
+                    <a data-fslightbox="75" href="/assets/img/kufs/mongolia/soongsil/75_ceremony_02.jpg">
+                        <img src="/assets/img/kufs/mongolia/soongsil/75_ceremony_02.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/75_ceremony_03.jpg" alt="Image">
+                    <a data-fslightbox="75" href="/assets/img/kufs/mongolia/soongsil/75_ceremony_03.jpg">
+                        <img src="/assets/img/kufs/mongolia/soongsil/75_ceremony_03.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/75_ceremony_04.jpg" alt="Image">
+                    <a data-fslightbox="75" href="/assets/img/kufs/mongolia/soongsil/75_ceremony_04.jpg">
+                        <img src="/assets/img/kufs/mongolia/soongsil/75_ceremony_04.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/75_ceremony_05.jpg" alt="Image">
+                    <a data-fslightbox="75" href="/assets/img/kufs/mongolia/soongsil/75_ceremony_05.jpg">
+                        <img src="/assets/img/kufs/mongolia/soongsil/75_ceremony_05.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/75_ceremony_06.jpg" alt="Image">
+                    <a data-fslightbox="75" href="/assets/img/kufs/mongolia/soongsil/75_ceremony_06.jpg">
+                        <img src="/assets/img/kufs/mongolia/soongsil/75_ceremony_06.jpg" alt="Image">
+                    </a>
                 </div>
             </div>
             <!-- If we need pagination -->
@@ -249,22 +323,34 @@
             <div class="swiper-wrapper">
                 <!-- Slides -->
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/lab_ceremony_01.jpg" alt="Image">
+                    <a data-fslightbox="lab" href="/assets/img/kufs/mongolia/soongsil/lab_ceremony_01.jpg">
+                        <img src="/assets/img/kufs/mongolia/soongsil/lab_ceremony_01.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/lab_ceremony_02.jpg" alt="Image">
+                    <a data-fslightbox="lab" href="/assets/img/kufs/mongolia/soongsil/lab_ceremony_02.jpg">
+                        <img src="/assets/img/kufs/mongolia/soongsil/lab_ceremony_02.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/lab_ceremony_03.jpg" alt="Image">
+                    <a data-fslightbox="lab" href="/assets/img/kufs/mongolia/soongsil/lab_ceremony_03.jpg">
+                        <img src="/assets/img/kufs/mongolia/soongsil/lab_ceremony_03.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/lab_ceremony_04.jpg" alt="Image">
+                    <a data-fslightbox="lab" href="/assets/img/kufs/mongolia/soongsil/lab_ceremony_04.jpg">
+                        <img src="/assets/img/kufs/mongolia/soongsil/lab_ceremony_04.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/lab_ceremony_05.jpg" alt="Image">
+                    <a data-fslightbox="lab" href="/assets/img/kufs/mongolia/soongsil/lab_ceremony_05.jpg">
+                        <img src="/assets/img/kufs/mongolia/soongsil/lab_ceremony_05.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/soongsil/lab_ceremony_06.jpg" alt="Image">
+                    <a data-fslightbox="lab" href="/assets/img/kufs/mongolia/soongsil/lab_ceremony_06.jpg">
+                        <img src="/assets/img/kufs/mongolia/soongsil/lab_ceremony_06.jpg" alt="Image">
+                    </a>
                 </div>
             </div>
             <!-- If we need pagination -->
@@ -290,49 +376,79 @@
             <div class="swiper-wrapper">
                 <!-- Slides -->
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/hansung/agreement_01.jpg" alt="Image">
+                    <a data-fslightbox="hansung" href="/assets/img/kufs/mongolia/hansung/agreement_01.jpg">
+                        <img src="/assets/img/kufs/mongolia/hansung/agreement_01.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/hansung/agreement_02.jpg" alt="Image">
+                    <a data-fslightbox="hansung" href="/assets/img/kufs/mongolia/hansung/agreement_02.jpg">
+                        <img src="/assets/img/kufs/mongolia/hansung/agreement_02.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/hansung/agreement_03.jpg" alt="Image">
+                    <a data-fslightbox="hansung" href="/assets/img/kufs/mongolia/hansung/agreement_03.jpg">
+                        <img src="/assets/img/kufs/mongolia/hansung/agreement_03.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/hansung/meeting_01.jpg" alt="Image">
+                    <a data-fslightbox="hansung" href="/assets/img/kufs/mongolia/hansung/meeting_01.jpg">
+                        <img src="/assets/img/kufs/mongolia/hansung/meeting_01.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/hansung/meeting_02.jpg" alt="Image">
+                    <a data-fslightbox="hansung" href="/assets/img/kufs/mongolia/hansung/meeting_02.jpg">
+                        <img src="/assets/img/kufs/mongolia/hansung/meeting_02.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/hansung/meeting_03.jpg" alt="Image">
+                    <a data-fslightbox="hansung" href="/assets/img/kufs/mongolia/hansung/meeting_03.jpg">
+                        <img src="/assets/img/kufs/mongolia/hansung/meeting_03.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/hansung/sign_01.jpg" alt="Image">
+                    <a data-fslightbox="hansung" href="/assets/img/kufs/mongolia/hansung/sign_01.jpg">
+                        <img src="/assets/img/kufs/mongolia/hansung/sign_01.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/hansung/sign_02.jpg" alt="Image">
+                    <a data-fslightbox="hansung" href="/assets/img/kufs/mongolia/hansung/sign_02.jpg">
+                        <img src="/assets/img/kufs/mongolia/hansung/sign_02.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/hansung/sign_03.jpg" alt="Image">
+                    <a data-fslightbox="hansung" href="/assets/img/kufs/mongolia/hansung/sign_03.jpg">
+                        <img src="/assets/img/kufs/mongolia/hansung/sign_03.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/hansung/sign_04.jpg" alt="Image">
+                    <a data-fslightbox="hansung" href="/assets/img/kufs/mongolia/hansung/sign_04.jpg">
+                        <img src="/assets/img/kufs/mongolia/hansung/sign_04.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/hansung/present_01.jpg" alt="Image">
+                    <a data-fslightbox="hansung" href="/assets/img/kufs/mongolia/hansung/present_01.jpg">
+                        <img src="/assets/img/kufs/mongolia/hansung/present_01.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/hansung/present_02.jpg" alt="Image">
+                    <a data-fslightbox="hansung" href="/assets/img/kufs/mongolia/hansung/present_02.jpg">
+                        <img src="/assets/img/kufs/mongolia/hansung/present_02.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/hansung/present_03.jpg" alt="Image">
+                    <a data-fslightbox="hansung" href="/assets/img/kufs/mongolia/hansung/present_03.jpg">
+                        <img src="/assets/img/kufs/mongolia/hansung/present_03.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/hansung/present_04.jpg" alt="Image">
+                    <a data-fslightbox="hansung" href="/assets/img/kufs/mongolia/hansung/present_04.jpg">
+                        <img src="/assets/img/kufs/mongolia/hansung/present_04.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/hansung/present_05.jpg" alt="Image">
+                    <a data-fslightbox="hansung" href="/assets/img/kufs/mongolia/hansung/present_05.jpg">
+                        <img src="/assets/img/kufs/mongolia/hansung/present_05.jpg" alt="Image">
+                    </a>
                 </div>
             </div>
             <!-- If we need pagination -->
@@ -357,12 +473,12 @@
             <div class="swiper-wrapper">
                 <!-- Slides -->
                 <div class="swiper-slide">
-                    <a data-fslightbox href="/assets/img/kufs/mongolia/hansung/48_ceremony_01.jpg">
+                    <a data-fslightbox="48" href="/assets/img/kufs/mongolia/hansung/48_ceremony_01.jpg">
                         <img src="/assets/img/kufs/mongolia/hansung/48_ceremony_01.jpg" alt="Image">
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a data-fslightbox href="/assets/img/kufs/mongolia/hansung/48_ceremony_02.jpg">
+                    <a data-fslightbox="48" href="/assets/img/kufs/mongolia/hansung/48_ceremony_02.jpg">
                         <img src="/assets/img/kufs/mongolia/hansung/48_ceremony_02.jpg" alt="Image">
                     </a>
                 </div>
@@ -389,16 +505,24 @@
             <div class="swiper-wrapper">
                 <!-- Slides -->
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/hansung/51_ceremony_01.jpg" alt="Image">
+                    <a data-fslightbox="51" href="/assets/img/kufs/mongolia/hansung/51_ceremony_01.jpg">
+                        <img src="/assets/img/kufs/mongolia/hansung/51_ceremony_01.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/hansung/51_ceremony_02.jpg" alt="Image">
+                    <a data-fslightbox="51" href="/assets/img/kufs/mongolia/hansung/51_ceremony_02.jpg">
+                        <img src="/assets/img/kufs/mongolia/hansung/51_ceremony_02.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/hansung/51_ceremony_03.jpg" alt="Image">
+                    <a data-fslightbox="51" href="/assets/img/kufs/mongolia/hansung/51_ceremony_03.jpg">
+                        <img src="/assets/img/kufs/mongolia/hansung/51_ceremony_03.jpg" alt="Image">
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <img src="/assets/img/kufs/mongolia/hansung/51_ceremony_04.jpg" alt="Image">
+                    <a data-fslightbox="51" href="/assets/img/kufs/mongolia/hansung/51_ceremony_04.jpg">
+                        <img src="/assets/img/kufs/mongolia/hansung/51_ceremony_04.jpg" alt="Image">
+                    </a>
                 </div>
             </div>
             <!-- If we need pagination -->
