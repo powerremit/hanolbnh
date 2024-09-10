@@ -81,8 +81,8 @@
                 <?=$this->lang->line('vietnam_08')?>
             </p>
         </div>
-        <a class="s-12 padding vertical-center" data-fslightbox href="/assets/img/history/vietnam/201703/vietnam_201703_01.jpg" >
-            <img src="/assets/img/history/vietnam/201703/vietnam_201703_01.jpg" alt="Image">
+        <a class="s-12 padding vertical-center" data-fslightbox href="/assets/img/history/vietnam/201703/vietnam_201703_01.JPG" >
+            <img src="/assets/img/history/vietnam/201703/vietnam_201703_01.JPG" alt="Image">
         </a>
     </section>
 
