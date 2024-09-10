@@ -12,11 +12,8 @@
     <!-- SECTION  -->
     <section class="grid">
         <div class="s-12 padding">
-            <h3 class="text-strong text-size-40">June, 2016</h3>
-            <h3 class="text-strong text-size-40">Hanol in Pakistan</h3>
-            <p class="text-padding text-center">
-                Mr.Bang, The C.E.O of Hanol B&H, owned one of the first huge Korean factories which had been built in Indonesia nearly 30 years ago. Now, a new company, Hanol B&H Co. Ltd., is growing boundary in Indonesia again.
-            </p>
+            <h3 class="text-strong text-size-40"><?=$this->lang->line('pakistan_01')?></h3>
+            <h3 class="text-strong text-size-20"><?=$this->lang->line('hanol_in_pakistan')?></h3>
         </div>
         <a class="s-12 m-2 padding vertical-center" data-fslightbox href="/assets/img/history/pakistan/201406/pakistan_201406_01.jpg">
             <img src="/assets/img/history/pakistan/201406/pakistan_201406_01.jpg" alt="Image">
@@ -90,13 +87,13 @@
         <a class="s-12 m-2 padding vertical-center" data-fslightbox href="/assets/img/history/pakistan/201406/pakistan_201406_24.jpg">
             <img src="/assets/img/history/pakistan/201406/pakistan_201406_24.jpg" alt="Image">
         </a>
-        <a class="s-12 m-2 padding vertical-center" data-fslightbox href="/assets/img/history/pakistan/201406/pakistan_201406_25.jpg">
-            <img src="/assets/img/history/pakistan/201406/pakistan_201406_25.jpg" alt="Image">
+        <a class="s-6 center padding vertical-center" data-fslightbox href="/assets/img/history/pakistan/201406/pakistan_201406_25.jpg">
+            <img src="/assets/img/history/pakistan/201406/pakistan_201406_25.jpg" alt="Image" width="50%">
         </a>
-        <a class="s-12 m-2 padding vertical-center" data-fslightbox href="/assets/img/history/pakistan/201406/pakistan_201406_26.jpg">
+        <a class="s-12 m-6 padding vertical-center" data-fslightbox href="/assets/img/history/pakistan/201406/pakistan_201406_26.jpg">
             <img src="/assets/img/history/pakistan/201406/pakistan_201406_26.jpg" alt="Image">
         </a>
-        <a class="s-12 m-2 padding vertical-center" data-fslightbox href="/assets/img/history/pakistan/201406/pakistan_201406_27.jpg">
+        <a class="s-12 m-6 padding vertical-center" data-fslightbox href="/assets/img/history/pakistan/201406/pakistan_201406_27.jpg">
             <img src="/assets/img/history/pakistan/201406/pakistan_201406_27.jpg" alt="Image">
         </a>
 

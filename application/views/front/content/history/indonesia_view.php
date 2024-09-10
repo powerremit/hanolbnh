@@ -12,10 +12,10 @@
     <!-- SECTION  -->
     <section class="grid">
         <div class="s-12 padding">
-            <h3 class="text-strong text-size-40">June, 2016</h3>
-            <h3 class="text-strong text-size-40">Hanol in Indonesia</h3>
+            <h3 class="text-strong text-size-40"><?=$this->lang->line('indonesia_01')?></h3>
+            <h3 class="text-strong text-size-20"><?=$this->lang->line('hanol_in_indonesia')?></h3>
             <p class="text-padding text-center">
-                Mr.Bang, The C.E.O of Hanol B&H, owned one of the first huge Korean factories which had been built in Indonesia nearly 30 years ago. Now, a new company, Hanol B&H Co. Ltd., is growing boundary in Indonesia again.
+                <?=$this->lang->line('indonesia_02')?>
             </p>
         </div>
         <a class="s-12 m-2 padding vertical-center" data-fslightbox href="/assets/img/history/indonesia/201606/indonesia_201606_01.jpg">
@@ -36,28 +36,28 @@
         <a class="s-12 m-2 padding vertical-center" data-fslightbox href="/assets/img/history/indonesia/201606/indonesia_201606_06.jpg">
             <img src="/assets/img/history/indonesia/201606/indonesia_201606_06.jpg" alt="Image">
         </a>
-        <a class="s-12 m-2 padding vertical-center" data-fslightbox href="/assets/img/history/indonesia/201606/indonesia_201606_07.jpg">
+        <a class="s-12 m-4 padding vertical-center" data-fslightbox href="/assets/img/history/indonesia/201606/indonesia_201606_07.jpg">
             <img src="/assets/img/history/indonesia/201606/indonesia_201606_07.jpg" alt="Image">
         </a>
-        <a class="s-12 m-2 padding vertical-center" data-fslightbox href="/assets/img/history/indonesia/201606/indonesia_201606_08.jpg">
+        <a class="s-12 m-4 padding vertical-center" data-fslightbox href="/assets/img/history/indonesia/201606/indonesia_201606_08.jpg">
             <img src="/assets/img/history/indonesia/201606/indonesia_201606_08.jpg" alt="Image">
         </a>
-        <a class="s-12 m-2 padding vertical-center" data-fslightbox href="/assets/img/history/indonesia/201606/indonesia_201606_09.jpg">
+        <a class="s-12 m-4 padding vertical-center" data-fslightbox href="/assets/img/history/indonesia/201606/indonesia_201606_09.jpg">
             <img src="/assets/img/history/indonesia/201606/indonesia_201606_09.jpg" alt="Image">
         </a>
-        <a class="s-12 m-2 padding vertical-center" data-fslightbox href="/assets/img/history/indonesia/201606/indonesia_201606_10.jpg">
+        <a class="s-12 m-5 padding vertical-center" data-fslightbox href="/assets/img/history/indonesia/201606/indonesia_201606_10.jpg">
             <img src="/assets/img/history/indonesia/201606/indonesia_201606_10.jpg" alt="Image">
         </a>
-        <a class="s-12 m-2 padding vertical-center" data-fslightbox href="/assets/img/history/indonesia/201606/indonesia_201606_11.jpg">
+        <a class="s-12 m-5 padding vertical-center" data-fslightbox href="/assets/img/history/indonesia/201606/indonesia_201606_11.jpg">
             <img src="/assets/img/history/indonesia/201606/indonesia_201606_11.jpg" alt="Image">
         </a>
         <a class="s-12 m-2 padding vertical-center" data-fslightbox href="/assets/img/history/indonesia/201606/indonesia_201606_12.jpg">
             <img src="/assets/img/history/indonesia/201606/indonesia_201606_12.jpg" alt="Image">
         </a>
-        <a class="s-12 m-2 padding vertical-center" data-fslightbox href="/assets/img/history/indonesia/201606/indonesia_201606_13.jpg">
+        <a class="s-12 m-6 padding vertical-center" data-fslightbox href="/assets/img/history/indonesia/201606/indonesia_201606_13.jpg">
             <img src="/assets/img/history/indonesia/201606/indonesia_201606_13.jpg" alt="Image">
         </a>
-        <a class="s-12 m-2 padding vertical-center" data-fslightbox href="/assets/img/history/indonesia/201606/indonesia_201606_14.jpg">
+        <a class="s-12 m-6 padding vertical-center" data-fslightbox href="/assets/img/history/indonesia/201606/indonesia_201606_14.jpg">
             <img src="/assets/img/history/indonesia/201606/indonesia_201606_14.jpg" alt="Image">
         </a>
 

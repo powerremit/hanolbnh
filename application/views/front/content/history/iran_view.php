@@ -12,10 +12,10 @@
     <!-- SECTION  -->
     <section class="grid">
         <div class="s-12 padding">
-            <h3 class="text-strong text-size-40">December, 2016</h3>
-            <h3 class="text-strong text-size-40">Hanol in Iran</h3>
+            <h3 class="text-strong text-size-40"><?=$this->lang->line('iran_01')?></h3>
+            <h3 class="text-strong text-size-20"><?=$this->lang->line('hanol_in_iran')?></h3>
             <p class="text-padding text-center">
-                Hanol successfully held direct interview session in Iran with Kyungsung university. Many nice students applied for the university during the dates.
+                <?=$this->lang->line('iran_02')?>
             </p>
         </div>
         <a class="s-12 m-3 padding vertical-center" data-fslightbox href="/assets/img/history/iran/201612/iran_201612_01.jpg">
@@ -38,6 +38,31 @@
         </a>
         <a class="s-12 m-3 padding vertical-center" data-fslightbox href="/assets/img/history/iran/201612/iran_201612_07.jpg">
             <img src="/assets/img/history/iran/201612/iran_201612_07.jpg" alt="Image">
+        </a>
+    </section>
+
+    <section class="grid">
+        <div class="s-12 padding">
+            <h3 class="text-strong text-size-40"><?=$this->lang->line('iran_03')?></h3>
+            <h3 class="text-strong text-size-20"><?=$this->lang->line('hanol_in_iran')?></h3>
+            <p class="text-padding text-center">
+                <?=$this->lang->line('iran_04')?>
+            </p>
+        </div>
+        <a class="s-12 m-4 padding vertical-center" data-fslightbox href="/assets/img/history/iran/201610/iran_201610_01.jpg">
+            <img src="/assets/img/history/iran/201610/iran_201610_01.jpg" alt="Image">
+        </a>
+        <a class="s-12 m-4 padding vertical-center" data-fslightbox href="/assets/img/history/iran/201610/iran_201610_02.jpg">
+            <img src="/assets/img/history/iran/201610/iran_201610_02.jpg" alt="Image">
+        </a>
+        <a class="s-12 m-4 padding vertical-center" data-fslightbox href="/assets/img/history/iran/201610/iran_201610_03.jpg">
+            <img src="/assets/img/history/iran/201610/iran_201610_03.jpg" alt="Image">
+        </a>
+        <a class="s-12 m-4 padding vertical-center" data-fslightbox href="/assets/img/history/iran/201610/iran_201610_04.jpg">
+            <img src="/assets/img/history/iran/201610/iran_201610_04.jpg" alt="Image">
+        </a>
+        <a class="s-12 m-4 padding vertical-center" data-fslightbox href="/assets/img/history/iran/201610/iran_201610_05.jpg">
+            <img src="/assets/img/history/iran/201610/iran_201610_05.jpg" alt="Image">
         </a>
     </section>
 </main>

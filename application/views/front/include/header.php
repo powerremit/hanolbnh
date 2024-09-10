@@ -56,8 +56,9 @@
                 <li>
                     <a href="javascript:void(0)">KUFS</a>
                     <ul class="dropdown">
-                        <li><a href="/subpage5">KUFS Vietnam</a></li>
-                        <li><a href="/subpage6">KUFS Mongolia</a></li>
+                        <li><a href="/kufs/vietnam">KUFS Vietnam</a></li>
+                        <li><a href="/kufs/mongolia">KUFS Mongolia</a></li>
+                        <li><a href="/kufs/mongolia/festival">Mongolia Festival</a></li>
                     </ul></li>
 
                 <li><a href="/contact">Contact</a></li>

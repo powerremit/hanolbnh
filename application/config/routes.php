@@ -53,3 +53,7 @@ $route['default_controller'] = 'welcome';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
 $route['mail/send'] = 'mail/send';
+$route['kufs/mongolia/(:num)'] = 'kufs/mongolia/year/$1';
+
+
+

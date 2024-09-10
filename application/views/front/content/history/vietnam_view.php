@@ -12,8 +12,8 @@
     <!-- SECTION  -->
     <section class="grid">
         <div class="s-12 padding">
-            <h3 class="text-strong text-size-40">September, 2017</h3>
-            <h3 class="text-strong text-size-20">Special Orientation in Kyungsung University for Hanol B&H Students</h3>
+            <h3 class="text-strong text-size-40"><?=$this->lang->line('vietnam_01')?></h3>
+            <h3 class="text-strong text-size-20"><?=$this->lang->line('vietnam_02')?></h3>
         </div>
         <a class="s-12 padding vertical-center" data-fslightbox href="/assets/img/history/vietnam/201709/vietnam_201709_01.jpg" >
             <img src="/assets/img/history/vietnam/201709/vietnam_201709_01.jpg" alt="Image">
@@ -39,16 +39,10 @@
     <!-- SECTION  -->
     <section class="grid">
         <div class="s-12 padding">
-            <h3 class="text-strong text-size-40">May, 2017</h3>
-            <h3 class="text-strong text-size-20">Entrance Ceremony of 170 Hanol B&H Students entered in Kyungsung University</h3>
+            <h3 class="text-strong text-size-40"><?=$this->lang->line('vietnam_03')?></h3>
+            <h3 class="text-strong text-size-20"><?=$this->lang->line('vietnam_04')?></h3>
             <p class="text-padding text-center">
-                For the March semester 2017, There were over 170 Vietnamese students entered in Kyungsung University. All of them are the students of Hanol B&H Co. Ltd.
-                <br><br>
-                The university held this extra entrance ceremony for Hanol's huge number of students.
-                The president of Hanol B&H also made a great speech for these new students.
-                This is the scale of Hanol B&H Co. Ltd. The un-copiable no.1 company in this boundary.
-                We interview thousands to choose hundreds.
-                Hanol is here for you.
+                <?=$this->lang->line('vietnam_05')?>
             </p>
         </div>
         <a class="s-12 padding vertical-center" data-fslightbox href="/assets/img/history/vietnam/201705/vietnam_201705_01.jpg" >
@@ -81,10 +75,10 @@
     <!-- SECTION  -->
     <section class="grid">
         <div class="s-12 padding">
-            <h3 class="text-strong text-size-40">March, 2017</h3>
-            <h3 class="text-strong text-size-20">Vietnamese Students in Gimhae Airport</h3>
+            <h3 class="text-strong text-size-40"><?=$this->lang->line('vietnam_06')?></h3>
+            <h3 class="text-strong text-size-20"><?=$this->lang->line('vietnam_07')?></h3>
             <p class="text-padding text-center">
-                For the March semester 2017, There were over 170 Vietnamese students entered in Kyungsung University. All of them are the students of Hanol B&H Co. Ltd.
+                <?=$this->lang->line('vietnam_08')?>
             </p>
         </div>
         <a class="s-12 padding vertical-center" data-fslightbox href="/assets/img/history/vietnam/201703/vietnam_201703_01.jpg" >
@@ -95,10 +89,10 @@
     <!-- SECTION  -->
     <section class="grid">
         <div class="s-12 padding">
-            <h3 class="text-strong text-size-40">February, 2017</h3>
-            <h3 class="text-strong text-size-20">Hanol in Hanoi, Vietnam</h3>
+            <h3 class="text-strong text-size-40"><?=$this->lang->line('vietnam_09')?></h3>
+            <h3 class="text-strong text-size-20"><?=$this->lang->line('hanol_in_hanoi')?></h3>
             <p class="text-padding text-center">
-                Hanol B&H held an usual interview in Hanoi, Vietnam.
+                <?=$this->lang->line('vietnam_10')?>
             </p>
         </div>
         <a class="s-12 m-6 l-3 padding vertical-center" data-fslightbox href="/assets/img/history/vietnam/201702/vietnam_201702_01.jpg">
@@ -122,10 +116,10 @@
     <!-- SECTION  -->
     <section class="grid">
         <div class="s-12 padding">
-            <h3 class="text-strong text-size-40">December, 2016</h3>
-            <h3 class="text-strong text-size-20">Hanol in Hanoi, Vietnam</h3>
+            <h3 class="text-strong text-size-40"><?=$this->lang->line('vietnam_11')?></h3>
+            <h3 class="text-strong text-size-20"><?=$this->lang->line('hanol_in_hanoi')?></h3>
             <p class="text-padding text-center">
-                Hanol B&H held an usual interview with Kyungsung University in Hanoi, Vietnam.
+                <?=$this->lang->line('vietnam_12')?>
             </p>
         </div>
         <a class="s-12 m-6 l-3 padding vertical-center" data-fslightbox href="/assets/img/history/vietnam/201612/vietnam_201612_01.jpg">
@@ -161,11 +155,10 @@
     <!-- SECTION  -->
     <section class="grid">
         <div class="s-12 padding">
-            <h3 class="text-strong text-size-40">March, 2016</h3>
-            <h3 class="text-strong text-size-20">Students arrived in Kyungsung & Pukyung</h3>
+            <h3 class="text-strong text-size-40"><?=$this->lang->line('vietnam_13')?></h3>
+            <h3 class="text-strong text-size-20"><?=$this->lang->line('vietnam_14')?></h3>
             <p class="text-padding text-center">
-                Vietnamese students arrived for the March semester 2016, Kyungsung & Pukyung University.
-                Hanol B&H gets the best students for sure.
+                <?=$this->lang->line('vietnam_15')?>
             </p>
         </div>
         <a class="s-12 padding vertical-center" data-fslightbox href="/assets/img/history/vietnam/201603/vietnam_201603_01.png">
@@ -176,11 +169,10 @@
     <!-- SECTION  -->
     <section class="grid">
         <div class="s-12 padding">
-            <h3 class="text-strong text-size-40">January, 2016</h3>
-            <h3 class="text-strong text-size-20">Hanol in Hanoi, Vietnam</h3>
+            <h3 class="text-strong text-size-40"><?=$this->lang->line('vietnam_16')?></h3>
+            <h3 class="text-strong text-size-20"><?=$this->lang->line('hanol_in_hanoi')?></h3>
             <p class="text-padding text-center">
-                Hanol B&H held an usual interview in Hanoi, Vietnam.
-                Also, Hanol made a nice M.O.U between Kyungsung University and Hung Vuong university.
+                <?=$this->lang->line('vietnam_17')?>
             </p>
         </div>
         <a class="s-12 m-6 l-6 padding vertical-center" data-fslightbox href="/assets/img/history/vietnam/201601/vietnam_201601_01.jpg">
@@ -194,12 +186,10 @@
     <!-- SECTION  -->
     <section class="grid">
         <div class="s-12 padding">
-            <h3 class="text-strong text-size-40">December, 2015</h3>
-            <h3 class="text-strong text-size-20">Hanol in Hanoi, Vietnam</h3>
+            <h3 class="text-strong text-size-40"><?=$this->lang->line('vietnam_18')?></h3>
+            <h3 class="text-strong text-size-20"><?=$this->lang->line('hanol_in_hanoi')?></h3>
             <p class="text-padding text-center">
-                Hanol B&H Held an interview session is Hanoi, Vietnam with Kyungsung University.
-                Many young applicants were happy to receive pre-letter of acceptance.
-                As we always said, Hanol is coming for you! (with Korean universities, of course)
+                <?=$this->lang->line('vietnam_19')?>
             </p>
         </div>
         <a class="s-12 m-6 l-6 padding vertical-center" data-fslightbox href="/assets/img/history/vietnam/201512/vietnam_201512_01.jpg">
@@ -213,11 +203,10 @@
     <!-- SECTION  -->
     <section class="grid">
         <div class="s-12 padding">
-            <h3 class="text-strong text-size-40">October, 2015</h3>
-            <h3 class="text-strong text-size-20">Hanol in Hanoi, Vietnam</h3>
+            <h3 class="text-strong text-size-40"><?=$this->lang->line('vietnam_20')?></h3>
+            <h3 class="text-strong text-size-20"><?=$this->lang->line('hanol_in_hanoi')?></h3>
             <p class="text-padding text-center">
-                Hanol held an awesome interview session in Daewoo Hanoi Hotel on October, 2015.
-                3 universities in Korea came together with Hanol, so the students could able to get the pre-letters of acceptance right after interviewing.
+                <?=$this->lang->line('vietnam_21')?>
             </p>
         </div>
         <a class="s-12 m-2 padding vertical-center" data-fslightbox href="/assets/img/history/vietnam/201510/vietnam_201510_01.jpg">
@@ -243,12 +232,8 @@
     <!-- SECTION  -->
     <section class="grid">
         <div class="s-12 padding">
-            <h3 class="text-strong text-size-40">July, 2015</h3>
-            <h3 class="text-strong text-size-20">Hanol in Hanoi, Vietnam</h3>
-            <p class="text-padding text-center">
-                Vietnamese students arrived for the March semester 2016, Kyungsung & Pukyung University.
-                Hanol B&H gets the best students for sure.
-            </p>
+            <h3 class="text-strong text-size-40"><?=$this->lang->line('vietnam_22')?></h3>
+            <h3 class="text-strong text-size-20"><?=$this->lang->line('hanol_in_hanoi')?></h3>
         </div>
         <a class="s-12 m-2 padding vertical-center" data-fslightbox href="/assets/img/history/vietnam/201507/vietnam_201507_01.jpg">
             <img src="/assets/img/history/vietnam/201507/vietnam_201507_01.jpg" alt="Image">
@@ -271,12 +256,8 @@
     <!-- SECTION  -->
     <section class="grid">
         <div class="s-12 padding">
-            <h3 class="text-strong text-size-40">April, 2015</h3>
-            <h3 class="text-strong text-size-20">Hanol in Hanoi, Vietnam</h3>
-            <p class="text-padding text-center">
-                Vietnamese students arrived for the March semester 2016, Kyungsung & Pukyung University.
-                Hanol B&H gets the best students for sure.
-            </p>
+            <h3 class="text-strong text-size-40"><?=$this->lang->line('vietnam_23')?></h3>
+            <h3 class="text-strong text-size-20"><?=$this->lang->line('hanol_in_hanoi')?></h3>
         </div>
         <a class="s-12 m-2 padding vertical-center" data-fslightbox href="/assets/img/history/vietnam/201504/vietnam_201504_01.jpg">
             <img src="/assets/img/history/vietnam/201504/vietnam_201504_01.jpg" alt="Image">

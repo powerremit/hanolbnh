@@ -3,19 +3,20 @@
     <!-- TOP SECTION -->
     <section class="grid">
         <!-- Main Carousel -->
+<!--        <div class="s-12 margin-bottom carousel-fade-transition owl-carousel carousel-main carousel-nav-white carousel-hide-arrows background-dark">-->
         <div class="s-12 margin-bottom carousel-fade-transition owl-carousel carousel-main carousel-nav-white carousel-hide-arrows background-dark">
             <div class="item background-image" style="background-image:url(/assets/img/main.jpg)">
                 <p class="text-padding text-strong text-white text-s-size-30 text-size-60 text-uppercase background-primary">Hanol B&H Co. Ltd</p><br>
                 <p class="text-padding text-size-20 text-dark text-uppercase background-white"><?=$this->lang->line('main_01')?></p>
             </div>
-<!--                      	<div class="item background-image" style="background-image:url(/assets/img/carousel-02.jpg)">-->
-<!--                          <p class="text-padding text-strong text-white text-s-size-30 text-size-60 text-uppercase background-primary">Hanol B&H Co. Ltd</p><br>-->
-<!--                          <p class="text-padding text-size-20 text-dark text-uppercase background-white">한올은 매년 1000명이 넘는 외국인 유학생을 국내 대학에 유치하는 국내 최대 인바운드 유학기업 입니다.</p>-->
-<!--                        </div>-->
-<!--                        <div class="item background-image" style="background-image:url(/assets/img/carousel-03.jpg)">-->
-<!--                          <p class="text-padding text-strong text-white text-s-size-30 text-size-60 text-uppercase background-primary">Hanol B&H Co. Ltd</p>-->
-<!--                          <p class="text-padding text-size-20 text-dark text-uppercase background-white">Hanol là công ty du học lớn nhất tại Hàn Quốc, mỗi năm thu hút hơn 1000 sinh viên quốc tế đến các trường đại học Hàn Quốc.</p>-->
-<!--                        </div>-->
+            <div class="item background-image" style="background-image:url(/assets/img/history/vietnam/201709/vietnam_201709_04.jpg)">
+                <p class="text-padding text-strong text-white text-s-size-30 text-size-60 text-uppercase background-primary">Hanol B&H Co. Ltd</p><br>
+                <p class="text-padding text-size-20 text-dark text-uppercase background-white">한올은 매년 1000명이 넘는 외국인 유학생을 국내 대학에 유치하는 국내 최대 인바운드 유학기업 입니다.</p>
+            </div>
+            <div class="item background-image" style="background-image:url(/assets/img/history/vietnam/201709/vietnam_201709_06.jpg)">
+                <p class="text-padding text-strong text-white text-s-size-30 text-size-60 text-uppercase background-primary">Hanol B&H Co. Ltd</p>
+                <p class="text-padding text-size-20 text-dark text-uppercase background-white">Hanol là công ty du học lớn nhất tại Hàn Quốc, mỗi năm thu hút hơn 1000 sinh viên quốc tế đến các trường đại học Hàn Quốc.</p>
+            </div>
         </div>
     </section>
 
