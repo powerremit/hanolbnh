@@ -12,14 +12,13 @@
         <div class="s-9 center">
             <a href="/kufs/mongolia" class="s-12 m-6 l-3 padding vertical-center margin-bottom text-white text-size-25 text-strong background-blue" style="cursor: pointer">2016</a>
             <a href="/kufs/mongolia/year/2017" class="s-12 m-6 l-3 padding vertical-center margin-bottom  text-white text-size-25 text-strong <?=$year == '2017' ? 'background-aqua' : 'background-blue'?>" style="cursor: pointer">2017</a>
-            <p class="text-size-20 text-aqua">From 13th of Feb. to 18th, There were huge events going on Mongolia by Hanol B&H Co. Ltd.<br>
-                Hanol B&H and 3 Korean universities (Kyungsung, Soongsil, Hansung) visited 6 Mongolian schools to share great information for the students.</p>
+            <p class="text-size-20 text-aqua"><?=$this->lang->line('kufs_mongo_2017_01')?></p>
         </div>
     </section>
 
     <section class="grid">
         <div class="s-10 m-10 padding center">
-            <h3 class="text-strong text-size-40 text-center">Feb 16, 2017 - At 51 School</h3>
+            <h3 class="text-strong text-size-40 text-center"><?=$this->lang->line('kufs_mongo_2017_02')?></h3>
         </div>
 
         <div class="s-9 m-9 l-9 center swiper mySwiper3">
@@ -92,7 +91,7 @@
     <hr>
     <section class="grid">
         <div class="s-10 m-10 padding center">
-            <h3 class="text-strong text-size-40 text-center">Feb 16, 2017 - At 48 School</h3>
+            <h3 class="text-strong text-size-40 text-center"><?=$this->lang->line('kufs_mongo_2017_03')?></h3>
         </div>
 
         <div class="s-9 m-9 l-9 center swiper mySwiper3">
@@ -148,7 +147,7 @@
     <hr>
     <section class="grid">
         <div class="s-10 m-10 padding center">
-            <h3 class="text-strong text-size-40 text-center">Feb 16, 2017 - At 75 School</h3>
+            <h3 class="text-strong text-size-40 text-center"><?=$this->lang->line('kufs_mongo_2017_04')?></h3>
         </div>
         <div class="s-9 m-9 l-9 center swiper mySwiper3">
             <!-- Additional required wrapper -->
@@ -225,7 +224,7 @@
     <hr>
     <section class="grid">
         <div class="s-10 m-10 padding center">
-            <h3 class="text-strong text-size-40 text-center">Feb 15, 2017 - At 28 School</h3>
+            <h3 class="text-strong text-size-40 text-center"><?=$this->lang->line('kufs_mongo_2017_05')?></h3>
         </div>
         <div class="s-9 m-9 l-9 center swiper mySwiper3">
             <!-- Additional required wrapper -->
@@ -282,7 +281,7 @@
     <hr>
     <section class="grid">
         <div class="s-10 m-10 padding center">
-            <h3 class="text-strong text-size-40 text-center">Feb 15, 2017 - At 50 School</h3>
+            <h3 class="text-strong text-size-40 text-center"><?=$this->lang->line('kufs_mongo_2017_06')?></h3>
         </div>
         <div class="s-9 m-9 l-9 center swiper mySwiper3">
             <!-- Additional required wrapper -->
@@ -339,7 +338,7 @@
     <hr>
     <section class="grid">
         <div class="s-10 m-10 padding center">
-            <h3 class="text-strong text-size-40 text-center">Feb 14, 2017 - At Laboratory High School For Young Inventors School</h3>
+            <h3 class="text-strong text-size-40 text-center"><?=$this->lang->line('kufs_mongo_2017_07')?></h3>
         </div>
         <div class="s-9 m-9 l-9 center swiper mySwiper3">
             <!-- Additional required wrapper -->

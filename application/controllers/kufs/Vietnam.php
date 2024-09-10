@@ -4,6 +4,10 @@ defined('BASEPATH') or exit('No direct script access allowed');
 class Vietnam extends CI_Controller
 {
 
+    public function __construct() {
+        parent::__construct();
+        $this->lang->load('kufs_lang');
+    }
 
     public function index()
     {

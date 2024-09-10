@@ -6,6 +6,7 @@ class Mongolia extends CI_Controller
 
     public function __construct() {
         parent::__construct();
+        $this->lang->load('kufs_lang');
     }
 
     public function index()

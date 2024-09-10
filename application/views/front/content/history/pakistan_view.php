@@ -87,8 +87,8 @@
         <a class="s-12 m-2 padding vertical-center" data-fslightbox href="/assets/img/history/pakistan/201406/pakistan_201406_24.jpg">
             <img src="/assets/img/history/pakistan/201406/pakistan_201406_24.jpg" alt="Image">
         </a>
-        <a class="s-6 center padding vertical-center" data-fslightbox href="/assets/img/history/pakistan/201406/pakistan_201406_25.jpg">
-            <img src="/assets/img/history/pakistan/201406/pakistan_201406_25.jpg" alt="Image" width="50%">
+        <a class="s-6 m-3 center padding vertical-center" data-fslightbox href="/assets/img/history/pakistan/201406/pakistan_201406_25.jpg">
+            <img src="/assets/img/history/pakistan/201406/pakistan_201406_25.jpg" alt="Image">
         </a>
         <a class="s-12 m-6 padding vertical-center" data-fslightbox href="/assets/img/history/pakistan/201406/pakistan_201406_26.jpg">
             <img src="/assets/img/history/pakistan/201406/pakistan_201406_26.jpg" alt="Image">

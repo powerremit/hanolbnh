@@ -18,7 +18,7 @@
     <!-- SECTION  -->
     <section class="grid">
         <div class="s-12 padding">
-            <h3 class="text-strong text-size-40 text-center">Korean language school in 28 School & 50 School<br>Built by Hanol B&H Co. Ltd. with Kyungsung University</h3>
+            <h3 class="text-strong text-size-40 text-center"><?=$this->lang->line('kufs_mongo_2016_01')?></h3>
         </div>
 
         <!-- Slider main container -->
@@ -53,7 +53,7 @@
 
     <section class="grid">
         <div class="s-9 m-9 center padding">
-            <h3 class="text-strong text-size-20 text-center">28 School in Ulaanbaatar, Mongolia<br>Opening Ceremony</h3>
+            <h3 class="text-strong text-size-20 text-center"><?=$this->lang->line('kufs_mongo_2016_02')?></h3>
         </div>
         <!-- Slider main container -->
         <div class="s-9 m-9 center swiper mySwiper2">
@@ -93,7 +93,7 @@
 
     <section class="grid">
         <div class="s-9 m-9 center padding">
-            <h3 class="text-strong text-size-20 text-center">50 School in Ulaanbaatar, Mongolia<br>Opening Ceremony</h3>
+            <h3 class="text-strong text-size-20 text-center"><?=$this->lang->line('kufs_mongo_2016_03')?></h3>
         </div>
         <!-- Slider main container -->
         <div class="s-9 m-9 center swiper mySwiper2">
@@ -133,7 +133,7 @@
     <hr>
     <section class="grid">
         <div class="s-12 padding">
-            <h3 class="text-strong text-size-40 text-center">Korean language school in 75 School &<br> The Laboratory High School For Young Inventors<br>Built by Hanol B&H Co. Ltd. with Soongsil University</h3>
+            <h3 class="text-strong text-size-40 text-center"><?=$this->lang->line('kufs_mongo_2016_04')?></h3>
         </div>
 
         <!-- Slider main container -->
@@ -201,7 +201,7 @@
 
     <section class="grid">
         <div class="s-9 m-9 center padding">
-            <h3 class="text-strong text-size-20">75 School in Ulaanbaatar, Mongolia<br>Opening Ceremony</h3>
+            <h3 class="text-strong text-size-20"><?=$this->lang->line('kufs_mongo_2016_05')?></h3>
         </div>
         <!-- Slider main container -->
         <div class="s-9 m-9 center swiper mySwiper2">
@@ -241,7 +241,7 @@
 
     <section class="grid">
         <div class="s-9 m-9 center padding">
-            <h3 class="text-strong text-size-20">The Laboratory High School For Young Inventors in Ulaanbaatar, Mongolia<br>Opening Ceremony</h3>
+            <h3 class="text-strong text-size-20"><?=$this->lang->line('kufs_mongo_2016_06')?></h3>
         </div>
         <!-- Slider main container -->
         <div class="s-9 m-9 center swiper mySwiper2">
@@ -281,7 +281,7 @@
     <hr>
     <section class="grid">
         <div class="s-12 padding">
-            <h3 class="text-strong text-size-40 text-center">Korean language school in 48 School & 51 School<br>Built by Hanol B&H Co. Ltd. with Soongsil University</h3>
+            <h3 class="text-strong text-size-40 text-center"><?=$this->lang->line('kufs_mongo_2016_07')?></h3>
         </div>
 
         <!-- Slider main container -->
@@ -349,7 +349,7 @@
 
     <section class="grid">
         <div class="s-9 m-9 center padding">
-            <h3 class="text-strong text-size-20">48 School in Ulaanbaatar, Mongolia<br>Opening Ceremony</h3>
+            <h3 class="text-strong text-size-20"><?=$this->lang->line('kufs_mongo_2016_08')?></h3>
         </div>
 
         <div class="s-9 m-6 center swiper mySwiper">
@@ -381,7 +381,7 @@
 
     <section class="grid">
         <div class="s-9 m-9 center padding">
-            <h3 class="text-strong text-size-20">51 Schhol in Ulaanbaatar, Mongolia<br>Opening Ceremony</h3>
+            <h3 class="text-strong text-size-20"><?=$this->lang->line('kufs_mongo_2016_09')?></h3>
         </div>
         <!-- Slider main container -->
         <div class="s-9 m-9 center swiper mySwiper2">

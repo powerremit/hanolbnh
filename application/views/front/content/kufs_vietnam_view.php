@@ -10,10 +10,10 @@
     <!-- SECTION  -->
     <section class="grid">
         <div class="s-12 padding">
-            <h3 class="text-strong text-size-40">January, 2018</h3>
-            <h3 class="text-strong text-size-20">국립 하노이 농업대학교</h3>
+            <h3 class="text-strong text-size-40"><?=$this->lang->line('kufs_viet_01')?></h3>
+            <h3 class="text-strong text-size-20"><?=$this->lang->line('kufs_viet_02')?></h3>
             <p class="text-padding text-center">
-                국립 하노이 농업대학교와 한올비앤에이치 KUFS 협약 및 현판식
+                <?=$this->lang->line('kufs_viet_03')?>
             </p>
         </div>
         <a class="s-12 m-4 padding vertical-center" data-fslightbox href="/assets/img/kufs/vietnam/national_hanoi_agric_01.jpg">
@@ -30,10 +30,10 @@
     <!-- SECTION  -->
     <section class="grid">
         <div class="s-12 padding">
-            <h3 class="text-strong text-size-40">December, 2017</h3>
-            <h3 class="text-strong text-size-20">하노이 경제 전문대학교</h3>
+            <h3 class="text-strong text-size-40"><?=$this->lang->line('kufs_viet_04')?></h3>
+            <h3 class="text-strong text-size-20"><?=$this->lang->line('kufs_viet_05')?></h3>
             <p class="text-padding text-center">
-                하노이 경제 전문대학교와 한올비앤에이치 KUFS 협약 및 현판식
+                <?=$this->lang->line('kufs_viet_06')?>
             </p>
         </div>
         <a class="s-12 m-6 padding vertical-center" data-fslightbox href="/assets/img/kufs/vietnam/national_hanoi_economic_01.jpg">
@@ -74,10 +74,10 @@
     <!-- SECTION  -->
     <section class="grid">
         <div class="s-12 padding">
-            <h3 class="text-strong text-size-40">December, 2017</h3>
-            <h3 class="text-strong text-size-20">국립 하노이 교통 전문대학교</h3>
+            <h3 class="text-strong text-size-40"><?=$this->lang->line('kufs_viet_07')?></h3>
+            <h3 class="text-strong text-size-20"><?=$this->lang->line('kufs_viet_08')?></h3>
             <p class="text-padding text-center">
-                국립 하노이 교통 전문대학교와 한올비앤에이치 KUFS 협약 및 현판식
+                <?=$this->lang->line('kufs_viet_09')?>
             </p>
         </div>
 
