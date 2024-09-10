@@ -29,42 +29,42 @@
         <div class="s-12 m-6 l-6 padding-2x margin-bottom">
             <h2 class="margin-bottom-0 text-center background-blue">8282</h2>
             <div class="video-container">
-                <iframe src="https://www.youtube.com/embed/WcKq8PVcAV0?si=6PRn8Y-DLJJeA7lX" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <iframe src="https://www.youtube.com/embed/BWBkYMhqVk0?si=kPsc_7rFKMqMV5r-" title="YouTube video player" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
         </div>
 
         <div class="s-12 m-6 l-6 padding-2x margin-bottom">
             <h2 class="margin-bottom-0 text-center background-blue">LAST DANCE</h2>
             <div class="video-container">
-                <iframe src="https://www.youtube.com/embed/vMAiBN09OMU?si=FcRtzJ5Ct73fki77" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <iframe src="https://www.youtube.com/embed/EEYHI-zCbe8?si=V2wi0Hhu4XyRvLhV" title="YouTube video player" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
         </div>
 
         <div class="s-12 m-6 l-6 padding-2x margin-bottom">
             <h2 class="margin-bottom-0 text-center background-blue">TOUCH LOVE</h2>
             <div class="video-container">
-                <iframe src="https://www.youtube.com/embed/WcKq8PVcAV0?si=6PRn8Y-DLJJeA7lX" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <iframe src="https://www.youtube.com/embed/rIJvPwpqbl4?si=mfxiQeYKifOMdNCY" title="YouTube video player" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
         </div>
 
         <div class="s-12 m-6 l-6 padding-2x margin-bottom">
             <h2 class="margin-bottom-0 text-center background-blue">눈, 코, 입</h2>
             <div class="video-container">
-                <iframe src="https://www.youtube.com/embed/vMAiBN09OMU?si=FcRtzJ5Ct73fki77" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <iframe src="https://www.youtube.com/embed/R2Qj6ocqtQM?si=a3Icbu26C3RPIRD3" title="YouTube video player" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
         </div>
 
         <div class="s-12 m-6 l-6 padding-2x margin-bottom">
             <h2 class="margin-bottom-0 text-center background-blue">MARIA</h2>
             <div class="video-container">
-                <iframe src="https://www.youtube.com/embed/WcKq8PVcAV0?si=6PRn8Y-DLJJeA7lX" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <iframe src="https://www.youtube.com/embed/YqCJe5HLynM?si=sukwtH_YcGypcMcT" title="YouTube video player" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
         </div>
 
         <div class="s-12 m-6 l-6 padding-2x margin-bottom">
             <h2 class="margin-bottom-0 text-center background-blue">HELLO TO MYSELF</h2>
             <div class="video-container">
-                <iframe src="https://www.youtube.com/embed/vMAiBN09OMU?si=FcRtzJ5Ct73fki77" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <iframe src="https://www.youtube.com/embed/APuIveYdLoE?si=WaBk_17RK8ak_LV3" title="YouTube video player" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
         </div>
 
@@ -85,14 +85,14 @@
         <div class="s-12 m-6 l-6 padding-2x margin-bottom">
             <h2 class="margin-bottom-0 text-center text-white background-red">OPENING STAGE</h2>
             <div class="video-container">
-                <iframe src="https://www.youtube.com/embed/WcKq8PVcAV0?si=6PRn8Y-DLJJeA7lX" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <iframe src="https://www.youtube.com/embed/tkhbASVKlvo?si=DK44iUxyoeArc4W-" title="YouTube video player" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
         </div>
 
         <div class="s-12 m-6 l-6 padding-2x margin-bottom">
             <h2 class="margin-bottom-0 text-center text-white background-red">TWO ENDING STAGES</h2>
             <div class="video-container">
-                <iframe src="https://www.youtube.com/embed/vMAiBN09OMU?si=FcRtzJ5Ct73fki77" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <iframe src="https://www.youtube.com/embed/wB7UxKa7aDQ?si=wDEgnj00aB_Vao-h" title="YouTube video player" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
         </div>
     </section>
