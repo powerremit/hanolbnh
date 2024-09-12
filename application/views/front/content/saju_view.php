@@ -152,6 +152,7 @@
 
         function resetTable() {
             $('#gan_value').empty();
+            $('#ji_value td').empty();
         }
 
         function jiSwitch(ji) {
