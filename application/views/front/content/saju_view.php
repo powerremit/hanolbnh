@@ -203,6 +203,7 @@
 <style>
     table {
         color: black;
+        font-size: 18px;
     }
 
     table td:nth-of-type(2) {
@@ -211,5 +212,6 @@
 
     td, tr {
         text-align: center;
+        font-size: 18px;
     }
 </style>
