@@ -11,10 +11,10 @@
     <section class="grid margin">
         <div class="m-12 l-10 center">
             <label for="gan"></label>
-            <input type="text" id="gan" value="무계경병" placeholder="무계경병"/>
+            <input type="text" id="gan" placeholder="무계경병"/>
             <br>
             <label for="ji"></label>
-            <input type="text" id="ji" value="오해자자" placeholder="오해자자"/>
+            <input type="text" id="ji" placeholder="오해자자"/>
             <button id="saju_btn">입력</button>
         </div>
         <div class="m-12 l-10 center saju_table">
