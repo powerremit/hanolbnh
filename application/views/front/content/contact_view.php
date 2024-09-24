@@ -17,7 +17,7 @@
                 <p>ENG: 129-1, Bongeunsa-ro, Gangnam-gu, Seoul, Republic of Korea</p>
 
                 <h2 class="text-size-20 margin-top-30 margin-bottom-10 text-strong text-uppercase text-dark">E-mail</h2>
-                <p><a class="text-primary-hover" href="mailto:contact@sampledomain.com">powerremit@hanolbnh.com</a></p>
+                <p><a class="text-primary-hover" href="mailto:contact@sampledomain.com">powerremit@naver.com</a></p>
                 <p><a class="text-primary-hover" href="mailto:office@sampledomain.com">henung2001@naver.com</a></p>
 
                 <h2 class="text-size-20 margin-top-30 margin-bottom-10 text-strong text-uppercase text-dark">Phone Numbers</h2>

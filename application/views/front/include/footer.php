@@ -23,7 +23,7 @@
     <div class="s-12 m-8 l-4 padding-2x margin-bottom background-dark">
         <h2 class="text-strong text-uppercase">Contact Us</h2>
         <p><b class="text-primary margin-right-10">P</b> +82 10 9974 4641</p>
-        <p><b class="text-primary margin-right-10">M</b> <a class="text-primary-hover" href="mailto:contact@sampledomain.com">powerremit@hanolbnh.com</a></p>
+        <p><b class="text-primary margin-right-10">M</b> <a class="text-primary-hover" href="mailto:contact@sampledomain.com">powerremit@naver.com</a></p>
         <p><b class="text-primary margin-right-10">M</b> <a class="text-primary-hover" href="mailto:office@sampledomain.com">henung2001@naver.com</a></p>
     </div>
 
