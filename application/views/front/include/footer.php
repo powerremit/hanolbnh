@@ -33,4 +33,5 @@
 <!--        <p class="text-size-12">All images have been purchased from Bigstock. Do not use the images in your website.</p>-->
 <!--        <p><a class="text-size-12 text-primary-hover" href="http://www.myresponsee.com" title="Responsee - lightweight responsive framework">Design and coding by Responsee Team</a></p>-->
 <!--    </div>-->
+    <div id="toast"></div>
 </footer>

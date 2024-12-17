@@ -98,4 +98,7 @@ defined('__VIEW_PATH_LAYOUT')      OR define('__VIEW_PATH_LAYOUT', '/front/inclu
 defined('__VIEW_PATH_LAYOUT_SUB')      OR define('__VIEW_PATH_LAYOUT_SUB', '/front/include/layout_sub');
 
 defined('_COMMON_MODAL_ID')      OR define('_COMMON_MODAL_ID', 'cmnModal');
+
+define('CSS_VERSION','0.01');
+
 define('CRYPTOJS_KEY', 'hanolbnh');

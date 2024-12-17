@@ -687,6 +687,11 @@ form.customform input, form.customform textarea, form.customform select {
 form.customform input:hover, form.customform textarea:hover, form.customform select:hover, form.customform input:focus, form.customform textarea:focus, form.customform select:focus {
   background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
 }
+
+/* toast */
+#toast { position: fixed; top: 50%;	left: 50%; width: max-content; max-width: 90%; color: white; font-size:14px; padding: 15px 80px; border-radius: 10px; transform: translate(-50%, -40%); background: rgba(0, 0, 0, 0.9); overflow: hidden; opacity: 0; visibility: hidden; transition: all 0.5s; user-select: none; z-index: 1000; }
+#toast.reveal {	transform: translate(-50%, -60%); opacity: 1; visibility: visible; }
+
 /* -1366 version */
 @media screen and (max-width:1366px) {
     .margin-xl-bottom {

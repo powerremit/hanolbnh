@@ -25,6 +25,7 @@
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 </head>
 
+<script src="/assets/js/common.js?ver=<?=CSS_VERSION?>"></script>
 <script type="text/javascript" src="/assets/js/responsee.js"></script>
 <script type="text/javascript" src="/assets/owl-carousel/owl.carousel.js"></script>
 <script type="text/javascript" src="/assets/js/template-scripts.js"></script>

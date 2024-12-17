@@ -28,6 +28,16 @@
 
     })
 </script>
+<style>
+    .login-btn {
+        /*background-color: #ff6600; !* 버튼 배경 색 *!*/
+        color: white; /* 글자 색 */
+        padding: 10px 20px; /* 패딩 */
+        border-radius: 5px; /* 둥근 모서리 */
+        text-decoration: none; /* 링크 밑줄 제거 */
+        font-weight: bold; /* 글씨 굵게 */
+    }
+</style>
 
 <!-- HEADER -->
 <header class="grid">
@@ -62,6 +72,7 @@
                     </ul></li>
 
                 <li><a href="/contact">Contact</a></li>
+                <li><a href="/login" class="login-btn text-white">Login</a></li>
             </ul>
         </div>
         <div class="s-12 lang_select">
