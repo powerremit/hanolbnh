@@ -29,6 +29,7 @@
 <script type="text/javascript" src="/assets/js/responsee.js"></script>
 <script type="text/javascript" src="/assets/owl-carousel/owl.carousel.js"></script>
 <script type="text/javascript" src="/assets/js/template-scripts.js"></script>
+<script type="text/javascript" src="/assets/js/cryptoJS.js"></script>
 <!--
  You can change the color scheme of the page. Just change the class of the <body> tag.
  You can use this class: "primary-color-white", "primary-color-red", "primary-color-orange", "primary-color-blue", "primary-color-aqua", "primary-color-dark"

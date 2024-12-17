@@ -116,16 +116,17 @@
     .signup-btn {
         width: 100%;
         padding: 10px;
-        background-color: #007bff;
+        background-color: #005881;
         color: white;
         border: none;
         border-radius: 5px;
         font-size: 16px;
         cursor: pointer;
+        transition: all 0.5s;
     }
 
     .signup-btn:hover {
-        background-color: #0056b3;
+        background-color: #00B5A6;
     }
 
 </style>

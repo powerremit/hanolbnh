@@ -25,6 +25,23 @@
             }
             location.reload();
         })
+        
+        // 로그아웃
+        $('.logout-btn').on('click', function () {
+            _cmn.ajax.exec({
+                url: '/api/member/logout',
+                data: {
+                    [_cmn.ajax.csrf_token_name]: _cmn.ajax.csrf_token
+                },
+                success: function (res) {
+                    if(res.status == 'success') {
+                        location.href = '/login'
+                    } else {
+                        toast('로그아웃실패')
+                    }
+                }
+            })
+        })
 
     })
 </script>
@@ -76,7 +93,12 @@
                 </li>
 
                 <li><a href="/contact">Contact</a></li>
-                <li><a href="/login" class="login-btn text-white">Login</a></li>
+                <?php if(isset($this->session->idx)) {?>
+                    <li><a href="/login" class="login-btn text-white">Logout</a></li>
+                <?php } else {?>
+                    <li><a href="/login" class="login-btn text-white">Login</a></li>
+                <?php } ?>
+                <li><a href="javascript:void(0)" class="logout-btn text-white">logout tmp</a></li>
             </ul>
         </div>
         <div class="s-12 lang_select">

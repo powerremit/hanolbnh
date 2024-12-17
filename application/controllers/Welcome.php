@@ -26,6 +26,9 @@ class Welcome extends CI_Controller {
 
     public function index()
 	{
+        $value = $this->session->userdata();
+        log_message('debug', 'Session Data: ' . print_r($this->session->userdata(), true));
+
 
         // 테스트전용
 //        $this->load->model('Test_model');

@@ -233,7 +233,7 @@ $config['directory_trigger'] = 'd';
 | your log files will fill up very fast.
 |
 */
-$config['log_threshold'] = 0;
+$config['log_threshold'] = 2;
 
 /*
 |--------------------------------------------------------------------------
@@ -395,6 +395,8 @@ $config['sess_match_ip'] = FALSE; // IP 주소를 확인할지 여부
 $config['sess_time_to_update'] = 300; // 세션 갱신 주기 (초 단위)
 $config['sess_regenerate_destroy'] = FALSE; // 세션 재생성 시 기존 세션 삭제 여부
 
+$config['sess_use_database'] = TRUE;
+$config['sess_table_name'] = 'piki_sessions';//new_project_session
 
 /*
 |--------------------------------------------------------------------------

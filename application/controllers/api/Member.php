@@ -43,6 +43,33 @@ class Member extends CommonLoader
         }
     }
 
+    function login() {
+
+        $id = $this->input->post('id');
+        $pw = cryptoJSdecrypt($this->input->post('pw'), CRYPTOJS_KEY);
+
+        $input_data = array(
+            'id' => $id,
+            'pw' => $pw
+        );
+
+        $storedPw = $this->Member_model->getStoredPw($id);
+        $checkPw = password_verify($pw, $storedPw);
+
+        if($checkPw) {
+            $this->Member_model->loginSessionSet($input_data);
+            echo $this->ajax_success_form('');
+        } else {
+            echo $this->ajax_error_form('로그인 실패');
+        }
+
+    }
+
+    public function logout() {
+        $this->session->sess_destroy(); // 세션 파괴
+        echo $this->ajax_success_form('');
+    }
+
 
 
 

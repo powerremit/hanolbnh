@@ -12,11 +12,11 @@
         <div class="login-container s-12 m-10 l-4 center">
             <h2 class="text-white">LOGIN</h2>
 
-            <form action="/login" method="POST">
+            <form action="/login" method="POST" onsubmit="return false">
                 <!-- 이메일 입력 -->
                 <div class="input-group">
                     <label for="id">ID</label>
-                    <input type="text" id="text" name="id" required placeholder="Enter your id">
+                    <input type="text" id="id" name="id" required placeholder="Enter your id">
                 </div>
 
                 <!-- 비밀번호 입력 -->
@@ -26,7 +26,7 @@
                 </div>
 
                 <!-- 로그인 버튼 -->
-                <button type="submit" class="login-btn">Login</button>
+                <button type="submit" class="login-btn" id="login_btn">Login</button>
 
                 <!-- 회원가입 및 비밀번호 찾기 버튼 -->
                 <div class="additional-options">
@@ -71,16 +71,17 @@
     .login-btn {
         width: 100%;
         padding: 10px;
-        background-color: #007bff;
+        background-color: #005881;
         color: white;
         border: none;
         border-radius: 5px;
         font-size: 16px;
         cursor: pointer;
+        transition: all 0.5s;
     }
 
     .login-btn:hover {
-        background-color: #0056b3;
+        background-color: #00B5A6;
     }
 
     .additional-options {

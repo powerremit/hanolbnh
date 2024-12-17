@@ -52,7 +52,7 @@
                         if (res.status == 'success') {
                             toast('회원가입에 성공하였습니다. 메인화면으로 이동합니다.')
                             setTimeout(function () {
-                                window.location = '/'
+                                location.href = '/'
                             }, 1500)
                         } else {
                             toast(res.msg);

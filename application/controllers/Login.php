@@ -22,4 +22,5 @@ class Login extends CI_Controller {
         $data['footer'] = $this->load->view('/front/include/footer', '', true);
 		$this->load->view(__VIEW_PATH_LAYOUT, $data);
 	}
+
 }
