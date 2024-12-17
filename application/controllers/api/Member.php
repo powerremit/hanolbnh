@@ -14,7 +14,7 @@ class Member extends CommonLoader
     function register() {
         $post = $this->input->post();
 
-        // 아이디 중복 체크
+        // 아이디 중복 체크_s
         $idChk = $this->Member_model->checkIdDuple($post['id']);
         if($idChk > 0) {
             echo $this->ajax_error_form('ID already exists!');

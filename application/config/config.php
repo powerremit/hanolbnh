@@ -387,13 +387,14 @@ $config['encryption_key'] = '';
 | except for 'cookie_prefix' and 'cookie_httponly', which are ignored here.
 |
 */
-$config['sess_driver'] = 'files';
+$config['sess_driver'] = 'database'; // 세션 드라이버를 'database'로 설정
+$config['sess_save_path'] = 'ci_sessions'; // 테이블 이름 (위에서 생성한 테이블)
 $config['sess_cookie_name'] = 'ci_session';
-$config['sess_expiration'] = 7200;
-$config['sess_save_path'] = NULL;
-$config['sess_match_ip'] = FALSE;
-$config['sess_time_to_update'] = 300;
-$config['sess_regenerate_destroy'] = FALSE;
+$config['sess_expiration'] = 7200; // 세션 유효 시간 (초 단위)
+$config['sess_match_ip'] = FALSE; // IP 주소를 확인할지 여부
+$config['sess_time_to_update'] = 300; // 세션 갱신 주기 (초 단위)
+$config['sess_regenerate_destroy'] = FALSE; // 세션 재생성 시 기존 세션 삭제 여부
+
 
 /*
 |--------------------------------------------------------------------------

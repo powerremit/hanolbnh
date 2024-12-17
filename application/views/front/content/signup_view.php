@@ -1,7 +1,7 @@
 <!-- MAIN -->
 <main role="main">
     <!-- TOP SECTION -->
-        <section class="grid margin">
+    <section class="grid margin margin-bottom-20">
         <div class="login-container s-12 m-10 l-4 center">
             <h2 class="text-white">JOIN MEMBER</h2>
 
@@ -80,7 +80,7 @@
         /*background-color: #fff;*/
         padding: 20px;
         border-radius: 10px;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        box-shadow: 0 4px 10px rgba(255, 255, 255, 1);
         width: 300px;
         text-align: center;
     }
