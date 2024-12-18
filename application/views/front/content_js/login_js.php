@@ -12,7 +12,7 @@
                 },
                 success: function (res) {
                     if (res.status == 'success') {
-                        alert('로그인')
+						location.href = '/';
                     } else {
                         toast(res.msg);
                     }

@@ -62,11 +62,6 @@ class Member_model extends CI_Model
             );
 
             $this->session->set_userdata($set_data);
-
-            $a = $this->session->userdata();
-            $b = $this->session->idx;
-
-            log_message('debug', 'Setting Session Data: ' . print_r($set_data, true));  // 데이터가 올바르게 전달되는지 확인
             return true;
         }
         else{

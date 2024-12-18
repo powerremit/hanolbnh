@@ -60,7 +60,7 @@ class Member extends CommonLoader
             $this->Member_model->loginSessionSet($input_data);
             echo $this->ajax_success_form('');
         } else {
-            echo $this->ajax_error_form('로그인 실패');
+            echo $this->ajax_error_form('비밀번호 혹은 아이디가 틀렸습니다.');
         }
 
     }

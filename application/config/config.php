@@ -23,7 +23,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'https://hanoltest.page.place/';
+if(ENVIRONMENT == 'local') {
+	$config['base_url'] = 'http://localhost:81/';
+} else {
+	$config['base_url'] = 'https://hanoltest.page.place/';
+}
+
 
 /*
 |--------------------------------------------------------------------------
@@ -35,7 +40,7 @@ $config['base_url'] = 'https://hanoltest.page.place/';
 | variable so that it is blank.
 |
 */
-$config['index_page'] = 'index.php';
+$config['index_page'] = '';
 
 /*
 |--------------------------------------------------------------------------
